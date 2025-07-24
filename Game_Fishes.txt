@@ -1,0 +1,271 @@
+Order	Family	Species	Occurrence	FishBase name	Name	Ref. No.
+Perciformes	Scombridae	Acanthocybium solandri	native 	Wahoo 	 	4699 	     
+Perciformes	Sparidae	Acanthopagrus berda	misidentification 	Goldsilk seabream 	 	3198 	     
+Perciformes	Serranidae	Aethaloperca rogaa	native 	Redmouth grouper 	Geurape itam 	30874 	     
+Myliobatiformes	Aetobatidae	Aetobatus narinari	native 	Whitespotted eagle ray 	Pari burung 	9862 	     
+Albuliformes	Albulidae	Albula glossodonta	native 	Roundjaw bonefish 	 	3289 	     
+Perciformes	Carangidae	Alectis ciliaris	native 	African pompano 	Ikan rambut 	4699 	     
+Perciformes	Carangidae	Alectis indica	native 	Indian threadfish 	Kwee rombeh 	171 	     
+Perciformes	Carangidae	Alepes djedaba	native 	Shrimp scad 	Bagat 	12484 	     
+Lamniformes	Alopiidae	Alopias vulpinus	native 	Thresher 	 	26346 	     
+Tetraodontiformes	Monacanthidae	Aluterus scriptus	native 	Scribbled leatherjacket filefish 	Tato kambing 	4699 	     
+Anguilliformes	Anguillidae	Anguilla anguilla	not established 	European eel 	 	4699 	     
+Anguilliformes	Anguillidae	Anguilla bengalensis	native 	Indian mottled eel 	 	 	     
+Anguilliformes	Anguillidae	Anguilla marmorata	native 	Giant mottled eel 	Moa kembang 	4699 	     
+Anguilliformes	Anguillidae	Anguilla reinhardtii	native 	Speckled longfin eel 	 	5259 	     
+Rhinopristiformes	Pristidae	Anoxypristis cuspidata	native 	Pointed sawfish 	Cucut gergaji 	4537 	     
+Perciformes	Serranidae	Anyperodon leucogrammicus	native 	Slender grouper 	Kiapu tallah 	30874 	     
+Perciformes	Lutjanidae	Aphareus furca	native 	Small toothed jobfish 	Kurus bali 	4887 	     
+Perciformes	Lutjanidae	Aphareus rutilans	native 	Rusty jobfish 	Cangah 	4887 	     
+Perciformes	Lutjanidae	Aprion virescens	native 	Green jobfish 	Ikan agam 	4699 	     
+Perciformes	Carangidae	Atule mate	native 	Yellowtail scad 	Selar como 	10984 	     
+Perciformes	Scombridae	Auxis rochei	native 	Bullet tuna 	Curubok 	9987 	     
+Perciformes	Scombridae	Auxis thazard	native 	Frigate tuna 	Alalalum 	4699 	     
+Siluriformes	Sisoridae	Bagarius bagarius	native 	Goonch 	Kelaling 	4537 	     
+Perciformes	Labridae	Bodianus bilunulatus	native 	Tarry hogfish 	Bajing lout 	4887 	     
+Ophidiiformes	Ophidiidae	Brotula multibarbata	native 	Goatsbeard brotula 	Bearded rockling 	559 	     
+Perciformes	Carangidae	Carangoides armatus	native 	Longfin trevally 	Kwee 	12484 	     
+Perciformes	Carangidae	Carangoides bajad	native 	Orangespotted trevally 	Kwee tutul 	4537 	     
+Perciformes	Carangidae	Carangoides chrysophrys	native 	Longnose trevally 	Kwee 	12484 	     
+Perciformes	Carangidae	Carangoides coeruleopinnatus	native 	Coastal trevally 	Simba-simba lili bonua 	12484 	     
+Perciformes	Carangidae	Carangoides dinema	native 	Shadow trevally 	Kwee 	4537 	     
+Perciformes	Carangidae	Carangoides ferdau	native 	Blue trevally 	Nyubba biasa 	12484 	     
+Perciformes	Carangidae	Carangoides fulvoguttatus	native 	Yellowspotted trevally 	Kwee macan 	4699 	     
+Perciformes	Carangidae	Carangoides gymnostethus	native 	Bludger 	Kwee lilin 	5213 	     
+Perciformes	Carangidae	Carangoides hedlandensis	native 	Bumpnose trevally 	 	12484 	     
+Perciformes	Carangidae	Carangoides malabaricus	native 	Malabar trevally 	Kuweh 	12484 	     
+Perciformes	Carangidae	Carangoides oblongus	native 	Coachwhip trevally 	Kwee 	4537 	     
+Perciformes	Carangidae	Carangoides orthogrammus	native 	Island trevally 	Pipilli 	4699 	     
+Perciformes	Carangidae	Carangoides plagiotaenia	native 	Barcheek trevally 	Bar-cheek trevally 	4537 	     
+Perciformes	Carangidae	Carangoides praeustus	native 	Brownback trevally 	Selar malam 	4537 	     
+Perciformes	Carangidae	Caranx bucculentus	native 	Bluespotted trevally 	 	4537 	     
+Perciformes	Carangidae	Caranx heberi	native 	Blacktip trevally 	Black-tip trevally 	4537 	     
+Perciformes	Carangidae	Caranx ignobilis	native 	Giant trevally 	Gapok 	4699 	     
+Perciformes	Carangidae	Caranx lugubris	native 	Black jack 	Meah mondo 	4699 	     
+Perciformes	Carangidae	Caranx melampygus	native 	Bluefin trevally 	Cá Khế vây đen 	4699 	     
+Perciformes	Carangidae	Caranx papuensis	native 	Brassy trevally 	Nyubba langko kape 	4699 	     
+Perciformes	Carangidae	Caranx sexfasciatus	native 	Bigeye trevally 	Selar 	4699 	     
+Perciformes	Carangidae	Caranx tille	native 	Tille trevally 	Gabu 	4537 	     
+Cypriniformes	Cyprinidae	Carassius auratus	introduced 	Goldfish 	 	4699 	     
+Carcharhiniformes	Carcharhinidae	Carcharhinus albimarginatus	native 	Silvertip shark 	Cucut lanjaman 	4699 	     
+Carcharhiniformes	Carcharhinidae	Carcharhinus amblyrhynchos	native 	Blacktail reef shark 	Cucut lanjaman 	4699 	     
+Carcharhiniformes	Carcharhinidae	Carcharhinus amboinensis	native 	Pigeye shark 	Mongiwa 	5578 	     
+Carcharhiniformes	Carcharhinidae	Carcharhinus brevipinna	native 	Spinner shark 	Cucut lanjaman 	4699 	     
+Carcharhiniformes	Carcharhinidae	Carcharhinus leucas	native 	Bull shark 	Cucut bekeman 	4699 	     
+Carcharhiniformes	Carcharhinidae	Carcharhinus limbatus	native 	Blacktip shark 	Cucut lanjaman 	4699 	     
+Carcharhiniformes	Carcharhinidae	Carcharhinus longimanus	native 	Oceanic whitetip shark 	Cucut koboy 	30874 	     
+Carcharhiniformes	Carcharhinidae	Carcharhinus plumbeus	native 	Sandbar shark 	Cucut lanjaman 	4699 	     
+Carcharhiniformes	Carcharhinidae	Carcharhinus sealei	native 	Blackspot shark 	Cucut lanjaman 	5213 	     
+Lamniformes	Odontaspididae	Carcharias taurus	native 	Sand tiger shark 	Hiu anjing 	4699 	     
+Perciformes	Serranidae	Cephalopholis argus	native 	Peacock hind 	Geurape brinchek itam 	4887 	     
+Perciformes	Serranidae	Cephalopholis miniata	native 	Coral hind 	Sunu merah 	30874 	     
+Perciformes	Serranidae	Cephalopholis polleni	native 	Harlequin hind 	Gerape 	30874 	     
+Perciformes	Serranidae	Cephalopholis sexmaculata	native 	Sixblotch hind 	Saddled rock cod 	30874 	     
+Perciformes	Serranidae	Cephalopholis spiloparaea	native 	Strawberry hind 	Kiapu mira polos 	30874 	     
+Perciformes	Channidae	Channa marulius	native 	Great snakehead 	 	4833 	     
+Perciformes	Channidae	Channa micropeltes	native 	Indonesian snakehead 	Kamal fish 	4833 	     
+Gonorynchiformes	Chanidae	Chanos chanos	native 	Milkfish 	Bandeng 	12484 	     
+Perciformes	Labridae	Cheilinus undulatus	native 	Humphead wrasse 	Napoleon 	4699 	     
+Clupeiformes	Chirocentridae	Chirocentrus dorab	native 	Dorab wolf-herring 	Bale bale 	9987 	     
+Osteoglossiformes	Notopteridae	Chitala chitala	misidentification 	Clown knifefish 	Lopis 	1479 	     
+Perciformes	Labridae	Choerodon schoenleinii	native 	Blackspot tuskfish 	Black-spot tuskfish 	4699 	     
+Perciformes	Cirrhitidae	Cirrhitus pinnulatus	native 	Stocky hawkfish 	White-spotted hawkfish 	4887 	     
+Siluriformes	Clariidae	Clarias gariepinus	introduced 	North African catfish 	 	4537 	     
+Anguilliformes	Congridae	Conger cinereus	native 	Longfin African conger 	Moustache conger 	4887 	     
+Perciformes	Labridae	Coris aygula	native 	Clown coris 	Clown wrasse 	30874 	     
+Perciformes	Labridae	Coris julis	native 	Mediterranean rainbow wrasse 	Timunan 	4699 	     
+Perciformes	Coryphaenidae	Coryphaena equiselis	native 	Pompano dolphinfish 	 	5217 	     
+Perciformes	Coryphaenidae	Coryphaena hippurus	native 	Common dolphinfish 	Lemadang 	4699 	     
+Cypriniformes	Cyprinidae	Ctenopharyngodon idella	introduced 	Grass carp 	Tonggan 	4699 	     
+Tetraodontiformes	Diodontidae	Cyclichthys orbicularis	native 	Birdbeak burrfish 	Rounded porcupinefish 	 	     
+Scorpaeniformes	Platycephalidae	Cymbacephalus bosschei	native 	Small-eyed flathead 	Banka flathead 	 	     
+Cypriniformes	Cyprinidae	Cyprinus carpio	introduced 	Common carp 	Ihan mas 	4699 	     
+Beloniformes	Exocoetidae	Cypselurus poecilopterus	native 	Yellowing flyingfish 	Antoni 	30874 	     
+Perciformes	Carangidae	Decapterus macarellus	native 	Mackerel scad 	Mackerel scad 	4887 	     
+Perciformes	Haemulidae	Diagramma pictum	native 	Painted sweetlips 	Gajih 	4699 	     
+Perciformes	Echeneidae	Echeneis naucrates	native 	Live sharksucker 	Ikan tempel 	4699 	     
+Perciformes	Carangidae	Elagatis bipinnulata	native 	Rainbow runner 	Cumok 	4699 	     
+Elopiformes	Elopidae	Elops hawaiensis	native 	Hawaiian ladyfish 	Bandeng lelaki 	4699 	     
+Elopiformes	Elopidae	Elops machnata	native 	Tenpounder 	 	4699 	     
+Perciformes	Serranidae	Epinephelus fasciatus	native 	Blacktip grouper 	Geurape bungong kala 	30874 	     
+Perciformes	Serranidae	Epinephelus hexagonatus	native 	Starspotted grouper 	 	30874 	     
+Perciformes	Serranidae	Epinephelus lanceolatus	native 	Giant grouper 	Kerapu lumpur 	9137 	     
+Perciformes	Serranidae	Epinephelus malabaricus	native 	Malabar grouper 	Kerapu lumpar 	4332 	     
+Perciformes	Serranidae	Epinephelus merra	native 	Honeycomb grouper 	Geurape musang 	30874 	     
+Perciformes	Serranidae	Epinephelus morrhua	native 	Comet grouper 	Kiapu kokoro 	30874 	     
+Perciformes	Serranidae	Epinephelus retouti	native 	Red-tipped grouper 	 	30874 	     
+Perciformes	Serranidae	Epinephelus spilotoceps	native 	Foursaddle grouper 	 	30874 	     
+Perciformes	Serranidae	Epinephelus tauvina	native 	Greasy grouper 	Bababo 	4699 	     
+Perciformes	Serranidae	Epinephelus tukula	native 	Potato grouper 	Kiapu buntar tikolo 	5222 	     
+Perciformes	Lutjanidae	Etelis carbunculus	native 	Deep-water red snapper 	Langkuabo mira 	4887 	     
+Perciformes	Lutjanidae	Etelis coruscans	native 	Deepwater longtail red snapper 	 	4887 	     
+Perciformes	Lutjanidae	Etelis radiosus	native 	Pale snapper 	Langkuabo 	30874 	     
+Perciformes	Scombridae	Euthynnus affinis	native 	Kawakawa 	Timphik 	4699 	     
+Carcharhiniformes	Carcharhinidae	Galeocerdo cuvier	native 	Tiger shark 	Cucut macan 	4699 	     
+Cypriniformes	Cyprinidae	Gibelion catla	questionable 	Catla 	 	4832 	     
+Perciformes	Carangidae	Gnathanodon speciosus	native 	Golden trevally 	Pidana 	4699 	     
+Perciformes	Serranidae	Gracila albomarginata	native 	Masked grouper 	Kiapu bandoka 	30874 	     
+Perciformes	Scombridae	Grammatorcynus bilineatus	native 	Double-lined mackerel 	Ande ande 	4537 	     
+Perciformes	Lethrinidae	Gymnocranius griseus	native 	Grey large-eye bream 	Kapas-kapas laut 	12484 	     
+Perciformes	Scombridae	Gymnosarda unicolor	native 	Dogtooth tuna 	Opu 	4699 	     
+Cypriniformes	Cyprinidae	Hampala macrolepidota	native 	Hampala barb 	Adong 	4832 	     
+Perciformes	Helostomatidae	Helostoma temminckii	native 	Kissing gourami 	Bawan 	 	     
+Perciformes	Labridae	Hemigymnus melapterus	native 	Blackeye thicklip 	Baseparai 	30874 	     
+Beloniformes	Hemiramphidae	Hemiramphus far	native 	Black-barred halfbeak 	Balobo kuning 	637 	     
+Hexanchiformes	Hexanchidae	Hexanchus griseus	native 	Bluntnose sixgill shark 	Cucut meong 	4699 	     
+Myliobatiformes	Dasyatidae	Himantura uarnak	native 	Honeycomb stingray 	Pari pasir 	3263 	     
+Perciformes	Labridae	Iniistius pavo	native 	Peacock wrasse 	Ikan kucing 	4887 	     
+Perciformes	Istiophoridae	Istiompax indica	native 	Black marlin 	 	4699 	     
+Perciformes	Istiophoridae	Istiophorus platypterus	native 	Indo-Pacific sailfish 	Geulang pajang 	4699 	     
+Lamniformes	Lamnidae	Isurus oxyrinchus	native 	Shortfin mako 	Hiu anjing 	4699 	     
+Perciformes	Istiophoridae	Kajikia audax	native 	Striped marlin 	 	4699 	     
+Perciformes	Scombridae	Katsuwonus pelamis	native 	Skipjack tuna 	Ame-ame 	4699 	     
+Perciformes	Kuhliidae	Kuhlia rupestris	native 	Rock flagtail 	 	2847 	     
+Perciformes	Kurtidae	Kurtus gulliveri	native 	Nurseryfish 	 	2158 	     
+Perciformes	Kyphosidae	Kyphosus bigibbus	native 	Brown chub 	Ila silah 	6642 	     
+Perciformes	Kyphosidae	Kyphosus vaigiensis	native 	Brassy chub 	Ila batu 	9137 	     
+Tetraodontiformes	Tetraodontidae	Lagocephalus lagocephalus	native 	Oceanic puffer 	 	4699 	     
+Perciformes	Latidae	Lates calcarifer	native 	Barramundi 	Kakap 	4699 	     
+Perciformes	Polynemidae	Leptomelanosoma indicum	native 	Indian threadfin 	Kurau hitam 	9987 	     
+Perciformes	Lethrinidae	Lethrinus atkinsoni	native 	Pacific yellowtail emperor 	Kadafo pudu 	171 	     
+Perciformes	Lethrinidae	Lethrinus laticaudis	native 	Grass emperor 	 	171 	     
+Perciformes	Lethrinidae	Lethrinus nebulosus	native 	Spangled emperor 	Lencam 	4699 	     
+Perciformes	Lethrinidae	Lethrinus xanthochilus	native 	Yellowlip emperor 	Ikan pit 	4699 	     
+Perciformes	Lobotidae	Lobotes surinamensis	native 	Tripletail 	Kakap bate 	5243 	     
+Carcharhiniformes	Carcharhinidae	Loxodon macrorhinus	native 	Sliteye shark 	Cucut pisang 	5578 	     
+Perciformes	Lutjanidae	Lutjanus argentimaculatus	native 	Mangrove red snapper 	Ganggrang eca 	6028 	     
+Perciformes	Lutjanidae	Lutjanus bohar	native 	Two-spot red snapper 	Jareung gigo 	4699 	     
+Perciformes	Lutjanidae	Lutjanus carponotatus	native 	Spanish flag snapper 	Langsuroh alo 	171 	     
+Perciformes	Lutjanidae	Lutjanus fulviflamma	native 	Dory snapper 	Ikan tanda 	30874 	     
+Perciformes	Lutjanidae	Lutjanus fulvus	native 	Blacktail snapper 	Tambak 	4887 	     
+Perciformes	Lutjanidae	Lutjanus gibbus	native 	Humpback red snapper 	Jenaha 	4537 	     
+Perciformes	Lutjanidae	Lutjanus goldiei	questionable 	Papuan black snapper 	Papuan black snapper 	55 	     
+Perciformes	Lutjanidae	Lutjanus johnii	native 	John's snapper 	Tambangan 	4699 	     
+Perciformes	Lutjanidae	Lutjanus kasmira	native 	Common bluestripe snapper 	Gorara tikus 	4887 	     
+Perciformes	Lutjanidae	Lutjanus malabaricus	native 	Malabar blood snapper 	Ine 	4699 	     
+Perciformes	Lutjanidae	Lutjanus quinquelineatus	native 	Five-lined snapper 	Sala 	171 	     
+Perciformes	Lutjanidae	Lutjanus rivulatus	native 	Blubberlip snapper 	Gaga 	12484 	     
+Perciformes	Lutjanidae	Lutjanus sebae	native 	Emperor red snapper 	Bambangan 	171 	     
+Perciformes	Lutjanidae	Macolor macularis	native 	Midnight snapper 	Sulai asau 	30874 	     
+Perciformes	Lutjanidae	Macolor niger	native 	Black and white snapper 	Kompele terbang 	4537 	     
+Myliobatiformes	Dasyatidae	Maculabatis gerrardi	native 	Sharpnose stingray 	Pari batu 	5578 	     
+Perciformes	Istiophoridae	Makaira mazara	native 	Indo-Pacific blue marlin 	 	43 	     
+Elopiformes	Megalopidae	Megalops cyprinoides	native 	Indo-Pacific tarpon 	Bulan-bulan 	10982 	     
+Perciformes	Lethrinidae	Monotaxis grandoculis	native 	Humpnose big-eye bream 	Bagangan 	30874 	     
+Mugiliformes	Mugilidae	Mugil cephalus	native 	Flathead grey mullet 	Belanak 	7248 	     
+Perciformes	Mullidae	Mulloidichthys flavolineatus	native 	Yellowstripe goatfish 	Banguntu janggutan tuba 	4887 	     
+Perciformes	Mullidae	Mulloidichthys pfluegeri	native 	Orange goatfish 	 	4887 	     
+Perciformes	Mullidae	Mulloidichthys vanicolensis	native 	Yellowfin goatfish 	Banguntu janggutan igabuku 	5213 	     
+Anguilliformes	Muraenesocidae	Muraenesox bagio	native 	Common pike conger 	 	12484 	     
+Anguilliformes	Muraenesocidae	Muraenesox cinereus	native 	Daggertooth pike conger 	Pucuk nipah 	9987 	     
+Perciformes	Acanthuridae	Naso hexacanthus	native 	Sleek unicornfish 	Kumai belowis 	4887 	     
+Perciformes	Acanthuridae	Naso unicornis	native 	Bluespine unicornfish 	Kumai tumbo 	4887 	     
+Perciformes	Carangidae	Naucrates ductor	native 	Pilotfish 	 	171 	     
+Orectolobiformes	Ginglymostomatidae	Nebrius ferrugineus	native 	Tawny nurse shark 	Cucut buta 	247 	     
+Siluriformes	Ariidae	Neoarius leptaspis	native 	Salmon catfish 	 	 	     
+Cypriniformes	Cyprinidae	Neolissochilus hexagonolepis	native 	Copper mahseer 	 	4537 	     
+Siluriformes	Plotosidae	Neosilurus brevidorsalis	native 	Shortfin tandan 	 	4537 	     
+Siluriformes	Ariidae	Netuma thalassina	native 	Giant catfish 	Jahan 	9987 	     
+Perciformes	Leiognathidae	Nuchequula nuchalis	questionable 	Spotnape ponyfish 	Silver ponyfish 	637 	     
+Salmoniformes	Salmonidae	Oncorhynchus mykiss	not established 	Rainbow trout 	 	4699 	     
+Perciformes	Cichlidae	Oreochromis mossambicus	introduced 	Mozambique tilapia 	Jahir 	5258 	     
+Perciformes	Sciaenidae	Otolithes ruber	native 	Tigertooth croaker 	Gelik 	9987 	     
+Perciformes	Cepolidae	Owstonia sibogae	native 	 	 	 	     
+Perciformes	Sparidae	Pagrus auratus	native 	Silver seabream 	 	4537 	     
+Siluriformes	Pangasiidae	Pangasius pangasius	questionable 	Pangas catfish 	Jambal 	4833 	     
+Perciformes	Carangidae	Pantolabus radiatus	native 	Fringefin trevally 	 	4537 	     
+Perciformes	Lutjanidae	Paracaesio sordida	native 	Dirty ordure snapper 	Fusilier snapper 	30874 	     
+Perciformes	Mullidae	Parupeneus barberinus	native 	Dash-and-dot goatfish 	Biji nangka karang 	5213 	     
+Perciformes	Mullidae	Parupeneus ciliatus	native 	Whitesaddle goatfish 	 	4887 	     
+Perciformes	Mullidae	Parupeneus cyclostomus	native 	Gold-saddle goatfish 	Ciko-ciko 	30874 	     
+Perciformes	Mullidae	Parupeneus indicus	native 	Indian goatfish 	Biji nangka karang 	12484 	     
+Perciformes	Mullidae	Parupeneus multifasciatus	native 	Manybar goatfish 	Timbungan tubba 	30874 	     
+Perciformes	Mullidae	Parupeneus pleurostigma	native 	Sidespot goatfish 	Timbungan 	4887 	     
+Mugiliformes	Mugilidae	Planiliza alata	native 	Diamond mullet 	 	4537 	     
+Mugiliformes	Mugilidae	Planiliza macrolepis	native 	Largescale mullet 	 	7248 	     
+Perciformes	Ephippidae	Platax teira	native 	Longfin batfish 	Platax jenggot 	12484 	     
+Scorpaeniformes	Platycephalidae	Platycephalus indicus	native 	Bartail flathead 	Ikan anjing 	12484 	     
+Perciformes	Haemulidae	Plectorhinchus chubbi	native 	Dusky rubberlip 	 	12484 	     
+Perciformes	Haemulidae	Plectorhinchus gibbosus	native 	Harry hotlips 	Brown sweetlips 	5213 	     
+Perciformes	Haemulidae	Plectorhinchus schotaf	native 	Minstrel sweetlips 	 	5213 	     
+Perciformes	Serranidae	Plectropomus laevis	native 	Blacksaddled coralgrouper 	Okke makuri 	6390 	     
+Perciformes	Serranidae	Plectropomus leopardus	native 	Leopard coralgrouper 	Kerapu sunu 	6390 	     
+Perciformes	Serranidae	Plectropomus maculatus	native 	Spotted coralgrouper 	Kerapu lodi 	6390 	     
+Perciformes	Serranidae	Plectropomus pessuliferus	native 	Roving coralgrouper 	Violet coral trout 	5213 	     
+Perciformes	Polynemidae	Polydactylus macrochir	native 	King threadfin 	 	4699 	     
+Perciformes	Polynemidae	Polydactylus plebeius	native 	Striped threadfin 	Kuro 	12484 	     
+Perciformes	Polynemidae	Polydactylus sexfilis	native 	Sixfinger threadfin 	Mulut tikus 	4699 	     
+Perciformes	Polynemidae	Polydactylus sextarius	native 	Blackspot threadfin 	 	4699 	     
+Perciformes	Haemulidae	Pomadasys commersonnii	questionable 	Smallspotted grunter 	 	2799 	     
+Perciformes	Haemulidae	Pomadasys kaakan	native 	Javelin grunter 	Spotted-grunter bream 	2799 	     
+Carcharhiniformes	Carcharhinidae	Prionace glauca	native 	Blue shark 	Cucut selendang 	4699 	     
+Perciformes	Lutjanidae	Pristipomoides auricilla	native 	Goldflag jobfish 	Bero babi igabuku 	30874 	     
+Perciformes	Lutjanidae	Pristipomoides filamentosus	native 	Crimson jobfish 	Bero babi 	4887 	     
+Perciformes	Lutjanidae	Pristipomoides sieboldii	native 	Lavender jobfish 	 	4887 	     
+Perciformes	Lutjanidae	Pristipomoides zonatus	native 	Oblique-banded snapper 	Bero babi terusang 	4887 	     
+Rhinopristiformes	Pristidae	Pristis microdon	native 	Largetooth sawfish 	Cucut gergaji 	5578 	     
+Rhinopristiformes	Pristidae	Pristis pectinata	native 	Smalltooth sawfish 	 	5578 	     
+Rhinopristiformes	Pristidae	Pristis zijsron	native 	Longcomb sawfish 	 	11228 	     
+Perciformes	Gempylidae	Promethichthys prometheus	native 	Roudi escolar 	 	30874 	     
+Perciformes	Latidae	Psammoperca waigiensis	native 	Waigieu seaperch 	Ringan 	4537 	     
+Pleuronectiformes	Paralichthyidae	Pseudorhombus arsius	native 	Largetooth flounder 	Engkod siblah 	4537 	     
+Perciformes	Chiasmodontidae	Pseudoscopelus altipinnis	native 	 	 	 	     
+Perciformes	Labridae	Pteragogus flagellifer	native 	Cocktail wrasse 	 	 	     
+Perciformes	Rachycentridae	Rachycentron canadum	native 	Cobia 	Badee 	4699 	     
+Perciformes	Scombridae	Rastrelliger brachysoma	native 	Short mackerel 	Kembung perempuan 	4537 	     
+Perciformes	Scombridae	Rastrelliger faughni	native 	Island mackerel 	Kembung 	4537 	     
+Perciformes	Scombridae	Rastrelliger kanagurta	native 	Indian mackerel 	Banjar 	4537 	     
+Perciformes	Sparidae	Rhabdosargus sarba	native 	Goldlined seabream 	 	9987 	     
+Rhinopristiformes	Rhinopteridae	Rhinoptera javanica	native 	Flapnose ray 	Pari burung 	5578 	     
+Carcharhiniformes	Carcharhinidae	Rhizoprionodon acutus	native 	Milk shark 	Hiu pilus 	5485 	     
+Rhinopristiformes	Rhinidae	Rhynchobatus djiddensis	native 	Giant guitarfish 	 	4699 	     
+Perciformes	Gempylidae	Ruvettus pretiosus	native 	Oilfish 	 	4699 	     
+Salmoniformes	Salmonidae	Salmo salar	not established 	Atlantic salmon 	 	4699 	     
+Perciformes	Scombridae	Sarda orientalis	native 	Striped bonito 	 	4537 	     
+Scorpaeniformes	Peristediidae	Scalicus orientalis	native 	 	 	 	     
+Osteoglossiformes	Osteoglossidae	Scleropages jardinii	native 	Australian bonytongue 	 	5259 	     
+Perciformes	Nemipteridae	Scolopsis vosmeri	native 	Whitecheek monocle bream 	Pasir pasir 	12484 	     
+Perciformes	Scombridae	Scomber australasicus	native 	Blue mackerel 	 	4537 	     
+Perciformes	Carangidae	Scomberoides commersonnianus	native 	Talang queenfish 	Giant queenfish 	4699 	     
+Perciformes	Carangidae	Scomberoides lysan	native 	Doublespotted queenfish 	Lima jari 	9987 	     
+Perciformes	Carangidae	Scomberoides tol	native 	Needlescaled queenfish 	Talang-talang 	4537 	     
+Perciformes	Scombridae	Scomberomorus commerson	native 	Narrow-barred Spanish mackerel 	Tangiro 	4699 	     
+Perciformes	Scombridae	Scomberomorus guttatus	native 	Indo-Pacific king mackerel 	Ajong ajong 	4537 	     
+Perciformes	Scombridae	Scomberomorus koreanus	native 	Korean seerfish 	 	4537 	     
+Perciformes	Scombridae	Scomberomorus lineolatus	native 	Streaked seerfish 	Sanji-sanji 	4537 	     
+Perciformes	Carangidae	Selar crumenophthalmus	native 	Bigeye scad 	Selar bentong 	4887 	     
+Perciformes	Carangidae	Seriola dumerili	native 	Greater amberjack 	 	4699 	     
+Perciformes	Carangidae	Seriola rivoliana	native 	Longfin yellowtail 	Longfin kingfish 	4699 	     
+Perciformes	Carangidae	Seriolina nigrofasciata	native 	Blackbanded trevally 	Black-banded kingfish 	5213 	     
+Perciformes	Sphyraenidae	Sphyraena barracuda	native 	Great barracuda 	Alu-alu 	4699 	     
+Perciformes	Sphyraenidae	Sphyraena jello	native 	Pickhandle barracuda 	Alu-alu 	4699 	     
+Perciformes	Sphyraenidae	Sphyraena obtusata	native 	Obtuse barracuda 	Kucul 	4752 	     
+Perciformes	Sphyraenidae	Sphyraena putnamae	native 	Sawtooth barracuda 	 	4537 	     
+Perciformes	Sphyraenidae	Sphyraena qenie	native 	Blackfin barracuda 	Alu-alu 	4699 	     
+Carcharhiniformes	Sphyrnidae	Sphyrna lewini	native 	Scalloped hammerhead 	Hiu bingkoh 	4699 	     
+Orectolobiformes	Stegostomatidae	Stegostoma fasciatum	native 	Zebra shark 	Cucut tekeh 	12484 	     
+Beloniformes	Belonidae	Strongylura leiura	native 	Banded needlefish 	Kajang 	12484 	     
+Anguilliformes	Muraenidae	Strophidon sathete	native 	Slender giant moray 	 	4699 	     
+Perciformes	Lutjanidae	Symphorus nematophorus	native 	Chinamanfish 	Baga 	4699 	     
+Myliobatiformes	Dasyatidae	Taeniura lymma	native 	Ribbontail stingray 	Ikan pari 	5578 	     
+Myliobatiformes	Dasyatidae	Taeniurops meyeni	native 	Round ribbontail ray 	Pari babi 	5578 	     
+Perciformes	Istiophoridae	Tetrapturus angustirostris	native 	Shortbill spearfish 	 	4887 	     
+Perciformes	Labridae	Thalassoma purpureum	native 	Surge wrasse 	Cina-cina 	30874 	     
+Perciformes	Scombridae	Thunnus alalunga	native 	Albacore 	 	4699 	     
+Perciformes	Scombridae	Thunnus albacares	native 	Yellowfin tuna 	Gelang kawung 	4699 	     
+Perciformes	Scombridae	Thunnus maccoyii	native 	Southern bluefin tuna 	 	4699 	     
+Perciformes	Scombridae	Thunnus obesus	native 	Bigeye tuna 	Balang kuni 	4699 	     
+Perciformes	Scombridae	Thunnus tonggol	native 	Longtail tuna 	Abu-abu 	4699 	     
+Cypriniformes	Cyprinidae	Tinca tinca	introduced 	Tench 	 	4699 	     
+Perciformes	Carangidae	Trachinotus africanus	native 	Southern pompano 	 	12484 	     
+Perciformes	Carangidae	Trachinotus baillonii	native 	Small spotted dart 	Spotted dart 	30874 	     
+Perciformes	Carangidae	Trachinotus blochii	native 	Snubnose pompano 	Lowang 	12484 	     
+Perciformes	Carangidae	Trachinotus botla	native 	Largespotted dart 	 	171 	     
+Perciformes	Carangidae	Trachinotus mookalee	native 	Indian pompano 	 	4537 	     
+Carcharhiniformes	Carcharhinidae	Triaenodon obesus	native 	Whitetip reef shark 	Hiu bokem 	4699 	     
+Perciformes	Trichiuridae	Trichiurus lepturus	native 	Largehead hairtail 	Layur 	3480 	     
+Beloniformes	Belonidae	Tylosurus crocodilus	native 	Hound needlefish 	Kacangan 	4699 	     
+Perciformes	Carangidae	Ulua mentalis	native 	Longrakered trevally 	Terman 	4537 	     
+Perciformes	Serranidae	Variola louti	native 	Yellow-edged lyretail 	Geurape cabeung 	4699 	     
+Siluriformes	Siluridae	Wallago attu	native 	Wallago 	Jambal 	4833 	     
+Perciformes	Xiphiidae	Xiphias gladius	native 	Swordfish 	Thoek kojek 	4699 	     

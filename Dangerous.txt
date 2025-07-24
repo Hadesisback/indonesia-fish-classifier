@@ -1,0 +1,387 @@
+Order	Family	Species	Occurrence	FishBase name	Name	Danger
+Scorpaeniformes	Tetrarogidae	Ablabys taenianotus	native 	Cockatoo waspfish 	Ikan sampah 	venomous 
+Perciformes	Pomacentridae	Abudefduf vaigiensis	native 	Indo-Pacific sergeant 	Sergeant major 	reports of ciguatera poisoning 
+Perciformes	Scombridae	Acanthocybium solandri	native 	Wahoo 	 	reports of ciguatera poisoning 
+Perciformes	Acanthuridae	Acanthurus lineatus	native 	Lined surgeonfish 	Botana kasur 	venomous 
+Perciformes	Acanthuridae	Acanthurus mata	native 	Elongate surgeonfish 	Buntana 	venomous 
+Perciformes	Acanthuridae	Acanthurus nigricauda	native 	Epaulette surgeonfish 	Dodoh 	poisonous to eat 
+Perciformes	Acanthuridae	Acanthurus nigrofuscus	native 	Brown surgeonfish 	Dusky surgeonfish 	reports of ciguatera poisoning 
+Perciformes	Acanthuridae	Acanthurus tennentii	native 	Doubleband surgeonfish 	Lieutenant surgeon 	reports of ciguatera poisoning 
+Perciformes	Acanthuridae	Acanthurus triostegus	native 	Convict surgeonfish 	Botana lorek 	reports of ciguatera poisoning 
+Perciformes	Acanthuridae	Acanthurus xanthopterus	native 	Yellowfin surgeonfish 	Kuu wadu 	venomous 
+Perciformes	Gobiidae	Acentrogobius caninus	native 	Tropical sand goby 	Belosoh 	poisonous to eat 
+Perciformes	Gobiidae	Acentrogobius nebulosus	native 	Shadow goby 	Bilir 	poisonous to eat 
+Myliobatiformes	Aetobatidae	Aetobatus narinari	native 	Whitespotted eagle ray 	Pari burung 	traumatogenic 
+Myliobatiformes	Aetobatidae	Aetobatus ocellatus	native 	Ocellated eagle ray 	 	traumatogenic 
+Myliobatiformes	Myliobatidae	Aetomylaeus maculatus	native 	Mottled eagle ray 	Pari burung 	traumatogenic 
+Myliobatiformes	Myliobatidae	Aetomylaeus milvus	native 	 	Pari pangka 	traumatogenic 
+Perciformes	Carangidae	Alectis ciliaris	native 	African pompano 	Ikan rambut 	reports of ciguatera poisoning 
+Batrachoidiformes	Batrachoididae	Allenbatrachus grunniens	native 	Grunting toadfish 	Edun 	venomous 
+Tetraodontiformes	Monacanthidae	Aluterus monoceros	native 	Unicorn leatherjacket filefish 	Barat-barat 	reports of ciguatera poisoning 
+Tetraodontiformes	Monacanthidae	Aluterus scriptus	native 	Scribbled leatherjacket filefish 	Tato kambing 	reports of ciguatera poisoning 
+Siluriformes	Ariidae	Amissidens hainesi	native 	Ridged catfish 	 	traumatogenic 
+Lophiiformes	Antennariidae	Antennarius biocellatus	native 	Brackishwater frogfish 	Brackish water anglerfish 	poisonous to eat 
+Lophiiformes	Antennariidae	Antennatus tuberosus	native 	Tuberculated frogfish 	 	poisonous to eat 
+Perciformes	Lutjanidae	Aphareus furca	native 	Small toothed jobfish 	Kurus bali 	reports of ciguatera poisoning 
+Scorpaeniformes	Apistidae	Apistus carinatus	native 	Ocellated waspfish 	Longfin waspfish 	venomous 
+Perciformes	Lutjanidae	Aprion virescens	native 	Green jobfish 	Ikan agam 	reports of ciguatera poisoning 
+Siluriformes	Ariidae	Arius arius	native 	Threadfin sea catfish 	 	traumatogenic 
+Siluriformes	Ariidae	Arius leptonotacanthus	native 	 	 	traumatogenic 
+Siluriformes	Ariidae	Arius maculatus	native 	Spotted catfish 	Lundu 	traumatogenic 
+Siluriformes	Ariidae	Arius microcephalus	native 	Squirrelheaded catfish 	 	traumatogenic 
+Siluriformes	Ariidae	Arius nudidens	native 	 	 	traumatogenic 
+Siluriformes	Ariidae	Arius oetik	native 	 	 	traumatogenic 
+Siluriformes	Ariidae	Arius subrostratus	native 	Shovelnose sea catfish 	 	traumatogenic 
+Siluriformes	Ariidae	Arius sumatranus	native 	Goat catfish 	 	traumatogenic 
+Siluriformes	Ariidae	Arius venosus	native 	Veined catfish 	Duri manyung 	traumatogenic 
+Tetraodontiformes	Tetraodontidae	Arothron hispidus	native 	White-spotted puffer 	Stars-and-stripes pufferfish 	poisonous to eat 
+Tetraodontiformes	Tetraodontidae	Arothron immaculatus	native 	Immaculate puffer 	Buntel pasir 	poisonous to eat 
+Tetraodontiformes	Tetraodontidae	Arothron mappa	native 	Map puffer 	Scribbled pufferfish 	poisonous to eat 
+Tetraodontiformes	Tetraodontidae	Arothron meleagris	native 	Guineafowl puffer 	Guinea-fowl pufferfish 	poisonous to eat 
+Tetraodontiformes	Tetraodontidae	Arothron nigropunctatus	native 	Blackspotted puffer 	Buntel babi 	poisonous to eat 
+Tetraodontiformes	Tetraodontidae	Arothron stellatus	native 	Stellate puffer 	Starry pufferfish 	poisonous to eat 
+Siluriformes	Ariidae	Aspistor hardenbergi	native 	 	 	traumatogenic 
+Tetraodontiformes	Balistidae	Balistapus undulatus	native 	Orange-lined triggerfish 	Triger lorek 	traumatogenic 
+Tetraodontiformes	Balistidae	Balistoides conspicillum	native 	Clown triggerfish 	Triger kembang 	reports of ciguatera poisoning 
+Tetraodontiformes	Balistidae	Balistoides viridescens	native 	Titan triggerfish 	Lubien manok 	reports of ciguatera poisoning 
+Siluriformes	Ariidae	Batrachocephalus mino	native 	Beardless sea catfish 	Manyung kodok 	traumatogenic 
+Myliobatiformes	Dasyatidae	Brevitrygon imbricata	native 	Bengal whipray 	Pari blentung 	venomous 
+Siluriformes	Ariidae	Brustiarius solidus	native 	Hard-palate catfish 	 	traumatogenic 
+Tetraodontiformes	Balistidae	Canthidermis maculata	native 	Rough triggerfish 	Lubiem 	reports of ciguatera poisoning 
+Tetraodontiformes	Tetraodontidae	Canthigaster rivulata	native 	Brown-lined puffer 	Tail-barred pufferfish 	venomous 
+Tetraodontiformes	Tetraodontidae	Canthigaster valentini	native 	Valentin's sharpnose puffer 	Buntel valentini 	poisonous to eat 
+Scorpaeniformes	Scorpaenidae	Caracanthus unipinna	native 	Pygmy coral croucher 	 	venomous 
+Perciformes	Carangidae	Carangoides ferdau	native 	Blue trevally 	Nyubba biasa 	reports of ciguatera poisoning 
+Perciformes	Carangidae	Caranx ignobilis	native 	Giant trevally 	Gapok 	reports of ciguatera poisoning 
+Perciformes	Carangidae	Caranx lugubris	native 	Black jack 	Meah mondo 	reports of ciguatera poisoning 
+Perciformes	Carangidae	Caranx melampygus	native 	Bluefin trevally 	Cá Khế vây đen 	reports of ciguatera poisoning 
+Cypriniformes	Cyprinidae	Carassius auratus	introduced 	Goldfish 	 	potential pest 
+Carcharhiniformes	Carcharhinidae	Carcharhinus albimarginatus	native 	Silvertip shark 	Cucut lanjaman 	traumatogenic 
+Carcharhiniformes	Carcharhinidae	Carcharhinus amblyrhynchoides	native 	Graceful shark 	Cucut lanjaman 	traumatogenic 
+Carcharhiniformes	Carcharhinidae	Carcharhinus amblyrhynchos	native 	Blacktail reef shark 	Cucut lanjaman 	traumatogenic 
+Carcharhiniformes	Carcharhinidae	Carcharhinus amboinensis	native 	Pigeye shark 	Mongiwa 	traumatogenic 
+Carcharhiniformes	Carcharhinidae	Carcharhinus falciformis	native 	Silky shark 	Mungsing 	traumatogenic 
+Carcharhiniformes	Carcharhinidae	Carcharhinus leucas	native 	Bull shark 	Cucut bekeman 	traumatogenic 
+Carcharhiniformes	Carcharhinidae	Carcharhinus limbatus	native 	Blacktip shark 	Cucut lanjaman 	traumatogenic 
+Carcharhiniformes	Carcharhinidae	Carcharhinus longimanus	native 	Oceanic whitetip shark 	Cucut koboy 	traumatogenic 
+Carcharhiniformes	Carcharhinidae	Carcharhinus melanopterus	native 	Blacktip reef shark 	Anak hiu 	traumatogenic 
+Lamniformes	Odontaspididae	Carcharias taurus	native 	Sand tiger shark 	Hiu anjing 	traumatogenic 
+Squaliformes	Somniosidae	Centroscymnus owstonii	native 	Roughskin dogfish 	 	poisonous to eat 
+Siluriformes	Ariidae	Cephalocassis borneensis	native 	 	Anak dukang 	traumatogenic 
+Siluriformes	Ariidae	Cephalocassis melanochir	native 	 	Gugup 	traumatogenic 
+Perciformes	Serranidae	Cephalopholis argus	native 	Peacock hind 	Geurape brinchek itam 	reports of ciguatera poisoning 
+Perciformes	Channidae	Channa marulius	native 	Great snakehead 	 	traumatogenic 
+Perciformes	Channidae	Channa striata	native 	Striped snakehead 	Aruwan 	potential pest 
+Perciformes	Labridae	Cheilinus undulatus	native 	Humphead wrasse 	Napoleon 	reports of ciguatera poisoning 
+Tetraodontiformes	Tetraodontidae	Chelonodon patoca	native 	Milkspotted puffer 	Milk-spotted pufferfish 	poisonous to eat 
+Tetraodontiformes	Diodontidae	Chilomycterus reticulatus	native 	Spotfin burrfish 	Konkeh silah 	venomous 
+Perciformes	Scaridae	Chlorurus microrhinos	native 	Steephead parrots 	Blunt-head parrotfish 	reports of ciguatera poisoning 
+Perciformes	Scaridae	Chlorurus sordidus	native 	Daisy parrotfish 	Kea-kea 	reports of ciguatera poisoning 
+Scorpaeniformes	Synanceiidae	Choridactylus multibarbus	native 	Orangebanded stingfish 	 	venomous 
+Siluriformes	Ariidae	Cinetodus carinatus	native 	Comb-spined catfish 	 	traumatogenic 
+Siluriformes	Ariidae	Cinetodus conorhynchus	endemic 	Lorentz catfish 	 	traumatogenic 
+Siluriformes	Ariidae	Cinetodus froggatti	native 	Smallmouthed salmon catfish 	 	traumatogenic 
+Siluriformes	Clariidae	Clarias batrachus	native 	Philippine catfish 	Ikan lele 	potential pest 
+Siluriformes	Clariidae	Clarias gariepinus	introduced 	North African catfish 	 	potential pest 
+Siluriformes	Ariidae	Cochlefelis danielsi	native 	Daniel's catfish 	 	traumatogenic 
+Siluriformes	Ariidae	Cochlefelis spatula	native 	Duckbilled catfish 	 	traumatogenic 
+Characiformes	Serrasalmidae	Colossoma macropomum	not established 	Cachama 	 	traumatogenic 
+Perciformes	Labridae	Coris gaimard	native 	African coris 	Keling asli 	reports of ciguatera poisoning 
+Perciformes	Coryphaenidae	Coryphaena hippurus	native 	Common dolphinfish 	Lemadang 	reports of ciguatera poisoning 
+Scorpaeniformes	Tetrarogidae	Cottapistus cottoides	native 	Marbled stingfish 	 	venomous 
+Siluriformes	Ariidae	Cryptarius truncatus	native 	 	Dukang kuning 	traumatogenic 
+Perciformes	Acanthuridae	Ctenochaetus binotatus	native 	Twospot surgeonfish 	Dodoh 	other 
+Perciformes	Acanthuridae	Ctenochaetus striatus	native 	Striated surgeonfish 	Dodoh loong 	reports of ciguatera poisoning 
+Cypriniformes	Cyprinidae	Ctenopharyngodon idella	introduced 	Grass carp 	Tonggan 	potential pest 
+Cypriniformes	Cyprinidae	Cyprinus carpio	introduced 	Common carp 	Ihan mas 	potential pest 
+Perciformes	Carangidae	Decapterus macarellus	native 	Mackerel scad 	Mackerel scad 	reports of ciguatera poisoning 
+Scorpaeniformes	Scorpaenidae	Dendrochirus biocellatus	native 	Twospot turkeyfish 	Scorpion gojah 	venomous 
+Scorpaeniformes	Scorpaenidae	Dendrochirus brachypterus	native 	Dwarf lionfish 	Dwarf lionfish 	venomous 
+Scorpaeniformes	Scorpaenidae	Dendrochirus zebra	native 	Zebra turkeyfish 	Scorpion kembang 	venomous 
+Perciformes	Haemulidae	Diagramma pictum	native 	Painted sweetlips 	Gajih 	reports of ciguatera poisoning 
+Tetraodontiformes	Tetraodontidae	Dichotomyctere fluviatilis	native 	Green pufferfish 	Buntel mas 	poisonous to eat 
+Tetraodontiformes	Diodontidae	Diodon holocanthus	native 	Longspined porcupinefish 	Buntel duren 	reports of ciguatera poisoning 
+Tetraodontiformes	Diodontidae	Diodon hystrix	native 	Spot-fin porcupinefish 	Buntel duren putih 	poisonous to eat 
+Tetraodontiformes	Diodontidae	Diodon liturosus	native 	Black-blotched porcupinefish 	Borutu 	reports of ciguatera poisoning 
+Perciformes	Serranidae	Diploprion bifasciatum	native 	Barred soapfish 	Ikan sabun 	venomous 
+Anguilliformes	Muraenidae	Echidna rhodochilus	native 	Pink-lipped moray eel 	 	traumatogenic 
+Scorpaeniformes	Setarchidae	Ectreposebastes imus	native 	Midwater scorpionfish 	 	venomous 
+Perciformes	Carangidae	Elagatis bipinnulata	native 	Rainbow runner 	Cumok 	reports of ciguatera poisoning 
+Anguilliformes	Muraenidae	Enchelycore bayeri	native 	Bayer's moray 	Bayer's moray 	traumatogenic 
+Anguilliformes	Muraenidae	Enchelynassa canina	native 	Longfang moray 	 	traumatogenic 
+Clupeiformes	Engraulidae	Engraulis japonicus	native 	Japanese anchovy 	Ikan putih 	reports of ciguatera poisoning 
+Perciformes	Labridae	Epibulus insidiator	native 	Sling-jaw wrasse 	Kenari kuning 	reports of ciguatera poisoning 
+Perciformes	Serranidae	Epinephelus cyanopodus	native 	Speckled blue grouper 	Lumu tarunsang 	reports of ciguatera poisoning 
+Perciformes	Serranidae	Epinephelus fasciatus	native 	Blacktip grouper 	Geurape bungong kala 	reports of ciguatera poisoning 
+Perciformes	Serranidae	Epinephelus fuscoguttatus	native 	Brown-marbled grouper 	Kerapu macan 	reports of ciguatera poisoning 
+Perciformes	Serranidae	Epinephelus lanceolatus	native 	Giant grouper 	Kerapu lumpur 	traumatogenic 
+Perciformes	Serranidae	Epinephelus maculatus	native 	Highfin grouper 	Kiapu nyarengkeh 	reports of ciguatera poisoning 
+Perciformes	Serranidae	Epinephelus melanostigma	native 	One-blotch grouper 	Black-spot grouper 	reports of ciguatera poisoning 
+Perciformes	Serranidae	Epinephelus merra	native 	Honeycomb grouper 	Geurape musang 	reports of ciguatera poisoning 
+Perciformes	Serranidae	Epinephelus morrhua	native 	Comet grouper 	Kiapu kokoro 	reports of ciguatera poisoning 
+Perciformes	Serranidae	Epinephelus polyphekadion	native 	Camouflage grouper 	Kiapu ngaluhu 	reports of ciguatera poisoning 
+Perciformes	Serranidae	Epinephelus quoyanus	native 	Longfin grouper 	Kerapu tutul 	reports of ciguatera poisoning 
+Perciformes	Serranidae	Epinephelus tauvina	native 	Greasy grouper 	Bababo 	reports of ciguatera poisoning 
+Scorpaeniformes	Synanceiidae	Erosa erosa	native 	Pitted stonefish 	 	venomous 
+Orectolobiformes	Orectolobidae	Eucrossorhinus dasypogon	native 	Tasselled wobbegong 	 	traumatogenic 
+Perciformes	Scombridae	Euthynnus affinis	native 	Kawakawa 	Timphik 	reports of ciguatera poisoning 
+Rajiformes	Gurgesiellidae	Fenestraja sibogae	native 	Siboga skate 	 	other 
+Myliobatiformes	Dasyatidae	Fluvitrygon signifer	native 	White-rimmed stingray 	Pari 	traumatogenic 
+Carcharhiniformes	Carcharhinidae	Galeocerdo cuvier	native 	Tiger shark 	Cucut macan 	traumatogenic 
+Cyprinodontiformes	Poeciliidae	Gambusia affinis	not established 	Mosquitofish 	 	potential pest 
+Perciformes	Lethrinidae	Gnathodentex aureolineatus	native 	Striped large-eye bream 	Randa moruta 	reports of ciguatera poisoning 
+Perciformes	Gobiidae	Gobiodon citrinus	native 	Poison goby 	Lemon coral-goby 	other 
+Perciformes	Serranidae	Grammistes sexlineatus	native 	Goldenstriped soapfish 	Gramistes 	reports of ciguatera poisoning 
+Perciformes	Scombridae	Gymnosarda unicolor	native 	Dogtooth tuna 	Opu 	reports of ciguatera poisoning 
+Anguilliformes	Muraenidae	Gymnothorax favagineus	native 	Laced moray 	Honeycomb moray 	reports of ciguatera poisoning 
+Anguilliformes	Muraenidae	Gymnothorax flavimarginatus	native 	Yellow-edged moray 	Yellow-edged moray 	reports of ciguatera poisoning 
+Anguilliformes	Muraenidae	Gymnothorax javanicus	native 	Giant moray 	Giant moray 	reports of ciguatera poisoning 
+Anguilliformes	Muraenidae	Gymnothorax meleagris	native 	Turkey moray 	White-mouth moray 	reports of ciguatera poisoning 
+Anguilliformes	Muraenidae	Gymnothorax nudivomer	native 	Yellowmouth moray 	Yellow-mouth moray 	poisonous to eat 
+Anguilliformes	Muraenidae	Gymnothorax pictus	native 	Paintspotted moray 	Peppered moray 	reports of ciguatera poisoning 
+Anguilliformes	Muraenidae	Gymnothorax polyuranodon	native 	Freshwater moray 	 	reports of ciguatera poisoning 
+Anguilliformes	Muraenidae	Gymnothorax reticularis	native 	 	Dusky-banded moray 	traumatogenic 
+Anguilliformes	Muraenidae	Gymnothorax undulatus	native 	Undulated moray 	Undulate moray 	reports of ciguatera poisoning 
+Myliobatiformes	Gymnuridae	Gymnura zonura	native 	Zonetail butterfly ray 	Pari payung 	venomous 
+Siluriformes	Ariidae	Hemiarius dioctes	native 	Warrior catfish 	 	traumatogenic 
+Siluriformes	Ariidae	Hemiarius stormii	native 	Armoured sea catfish 	 	traumatogenic 
+Hexanchiformes	Hexanchidae	Heptranchias perlo	native 	Sharpnose sevengill shark 	Cucut kapukan 	poisonous to eat 
+Clupeiformes	Clupeidae	Herklotsichthys quadrimaculatus	native 	Bluestripe herring 	Budueng 	potential pest 
+Heterodontiformes	Heterodontidae	Heterodontus zebra	native 	Zebra bullhead shark 	 	traumatogenic 
+Perciformes	Priacanthidae	Heteropriacanthus cruentatus	native 	Glasseye 	Beseh loong 	reports of ciguatera poisoning 
+Hexanchiformes	Hexanchidae	Hexanchus griseus	native 	Bluntnose sixgill shark 	Cucut meong 	poisonous to eat 
+Siluriformes	Ariidae	Hexanematichthys sagor	native 	Sagor catfish 	Babukan 	traumatogenic 
+Myliobatiformes	Dasyatidae	Himantura uarnak	native 	Honeycomb stingray 	Pari pasir 	venomous 
+Myliobatiformes	Dasyatidae	Himantura undulata	native 	Leopard whipray 	Pari macan 	venomous 
+Lophiiformes	Antennariidae	Histrio histrio	native 	Sargassumfish 	Sargassum anglerfish 	reports of ciguatera poisoning 
+Cypriniformes	Cyprinidae	Hypophthalmichthys molitrix	not established 	Silver carp 	 	potential pest 
+Cypriniformes	Cyprinidae	Hypophthalmichthys nobilis	introduced 	Bighead carp 	 	potential pest 
+Scorpaeniformes	Synanceiidae	Inimicus cuvieri	native 	Longsnout stinger 	 	venomous 
+Scorpaeniformes	Synanceiidae	Inimicus didactylus	native 	Bearded ghoul 	Devil stinger 	venomous 
+Scorpaeniformes	Synanceiidae	Inimicus sinensis	native 	Spotted ghoul 	 	venomous 
+Scorpaeniformes	Scorpaenidae	Iracundus signifer	native 	Decoy scorpionfish 	 	venomous 
+Lamniformes	Lamnidae	Isurus oxyrinchus	native 	Shortfin mako 	Hiu anjing 	traumatogenic 
+Perciformes	Scombridae	Katsuwonus pelamis	native 	Skipjack tuna 	Ame-ame 	reports of ciguatera poisoning 
+Siluriformes	Ariidae	Ketengus typus	native 	Bigmouth sea catfish 	Keting 	traumatogenic 
+Perciformes	Kyphosidae	Kyphosus cinerascens	native 	Blue sea chub 	Snubnose rudderfish 	poisonous to eat 
+Tetraodontiformes	Ostraciidae	Lactoria cornuta	native 	Longhorn cowfish 	Sapi sapi 	reports of ciguatera poisoning 
+Tetraodontiformes	Ostraciidae	Lactoria diaphana	native 	Roundbelly cowfish 	Round-belly cowfish 	venomous 
+Tetraodontiformes	Ostraciidae	Lactoria fornasini	native 	Thornback cowfish 	Thorny-back cowfish 	venomous 
+Tetraodontiformes	Tetraodontidae	Lagocephalus gloveri	native 	 	 	poisonous to eat 
+Tetraodontiformes	Tetraodontidae	Lagocephalus inermis	native 	Smooth blaasop 	 	poisonous to eat 
+Tetraodontiformes	Tetraodontidae	Lagocephalus lagocephalus	native 	Oceanic puffer 	 	other 
+Tetraodontiformes	Tetraodontidae	Lagocephalus lunaris	native 	Lunartail puffer 	 	poisonous to eat 
+Tetraodontiformes	Tetraodontidae	Lagocephalus sceleratus	native 	Silver-cheeked toadfish 	 	poisonous to eat 
+Cypriniformes	Cyprinidae	Leptobarbus hoevenii	native 	Hoven's carp 	Jelawat 	other 
+Scorpaeniformes	Synanceiidae	Leptosynanceia asteroblepa	native 	 	 	venomous 
+Perciformes	Lethrinidae	Lethrinus erythracanthus	native 	Orange-spotted emperor 	Orange-finned emperor 	reports of ciguatera poisoning 
+Perciformes	Lethrinidae	Lethrinus microdon	native 	Smalltooth emperor 	Small-tooth emperor 	reports of ciguatera poisoning 
+Perciformes	Lethrinidae	Lethrinus nebulosus	native 	Spangled emperor 	Lencam 	reports of ciguatera poisoning 
+Perciformes	Lethrinidae	Lethrinus olivaceus	native 	Longface emperor 	Lausu 	reports of ciguatera poisoning 
+Scorpaeniformes	Setarchidae	Lioscorpius longiceps	native 	Slender scorpionfish 	 	venomous 
+Perciformes	Lutjanidae	Lutjanus argentimaculatus	native 	Mangrove red snapper 	Ganggrang eca 	reports of ciguatera poisoning 
+Perciformes	Lutjanidae	Lutjanus bohar	native 	Two-spot red snapper 	Jareung gigo 	reports of ciguatera poisoning 
+Perciformes	Lutjanidae	Lutjanus fulviflamma	native 	Dory snapper 	Ikan tanda 	reports of ciguatera poisoning 
+Perciformes	Lutjanidae	Lutjanus fulvus	native 	Blacktail snapper 	Tambak 	reports of ciguatera poisoning 
+Perciformes	Lutjanidae	Lutjanus gibbus	native 	Humpback red snapper 	Jenaha 	reports of ciguatera poisoning 
+Perciformes	Lutjanidae	Lutjanus monostigma	native 	One-spot snapper 	Kelalah 	reports of ciguatera poisoning 
+Perciformes	Lutjanidae	Lutjanus rivulatus	native 	Blubberlip snapper 	Gaga 	reports of ciguatera poisoning 
+Perciformes	Lutjanidae	Lutjanus sebae	native 	Emperor red snapper 	Bambangan 	reports of ciguatera poisoning 
+Perciformes	Blenniidae	Meiacanthus anema	native 	Threadless blenny 	 	venomous 
+Perciformes	Blenniidae	Meiacanthus atrodorsalis	native 	Forktail blenny 	Eye-lash harptail-blenny 	venomous 
+Perciformes	Blenniidae	Meiacanthus ditrema	native 	One-striped poison-fang blenny 	Schooling harptail blenny 	venomous 
+Perciformes	Blenniidae	Meiacanthus grammistes	native 	Striped poison-fang blenny 	Line-spot harptail blenny 	venomous 
+Scorpaeniformes	Synanceiidae	Minous coccineus	native 	Onestick stingfish 	 	venomous 
+Scorpaeniformes	Synanceiidae	Minous monodactylus	native 	Grey stingfish 	 	venomous 
+Tetraodontiformes	Molidae	Mola mola	native 	Ocean sunfish 	Ocean sunfish 	poisonous to eat 
+Perciformes	Lethrinidae	Monotaxis grandoculis	native 	Humpnose big-eye bream 	Bagangan 	reports of ciguatera poisoning 
+Anguilliformes	Muraenesocidae	Muraenesox bagio	native 	Common pike conger 	 	other 
+Myliobatiformes	Myliobatidae	Myliobatis tobijei	questionable 	Japanese eagle ray 	Pari elang 	traumatogenic 
+Beryciformes	Holocentridae	Myripristis murdjan	native 	Pinecone soldierfish 	Murjan 	reports of ciguatera poisoning 
+Siluriformes	Bagridae	Mystus cavasius	misidentification 	Gangetic mystus 	Ririgi 	venomous 
+Torpediniformes	Narcinidae	Narcine brunnea	native 	Brown numbfish 	 	other 
+Torpediniformes	Narcinidae	Narcine lingula	native 	Chinese numbfish 	 	other 
+Torpediniformes	Narcinidae	Narcine prodorsalis	native 	Tonkin numbfish 	 	other 
+Torpediniformes	Narcinidae	Narcine timlei	native 	Spotted numbfish 	 	other 
+Torpediniformes	Narkidae	Narke dipterygia	native 	Numbray 	 	other 
+Perciformes	Acanthuridae	Naso annulatus	native 	Whitemargin unicornfish 	White-margin unicorn 	reports of ciguatera poisoning 
+Perciformes	Acanthuridae	Naso brevirostris	native 	Spotted unicornfish 	Kumai 	reports of ciguatera poisoning 
+Perciformes	Acanthuridae	Naso lituratus	native 	Orangespine unicornfish 	Naso 	venomous 
+Perciformes	Acanthuridae	Naso unicornis	native 	Bluespine unicornfish 	Kumai tumbo 	reports of ciguatera poisoning 
+Orectolobiformes	Ginglymostomatidae	Nebrius ferrugineus	native 	Tawny nurse shark 	Cucut buta 	traumatogenic 
+Siluriformes	Ariidae	Nedystoma dayi	native 	Day's catfish 	 	traumatogenic 
+Siluriformes	Ariidae	Nedystoma novaeguineae	native 	Spoon-snouted catfish 	 	traumatogenic 
+Carcharhiniformes	Carcharhinidae	Negaprion acutidens	native 	Sicklefin lemon shark 	Lemon shark 	traumatogenic 
+Siluriformes	Ariidae	Nemapteryx bleekeri	questionable 	Bleeker's catfish 	 	traumatogenic 
+Siluriformes	Ariidae	Nemapteryx caelata	native 	Engraved catfish 	Duri kerak 	traumatogenic 
+Siluriformes	Ariidae	Nemapteryx macronotacantha	native 	 	Manyung pidada 	traumatogenic 
+Siluriformes	Ariidae	Neoarius graeffei	native 	Blue salmon catfish 	 	traumatogenic 
+Siluriformes	Ariidae	Neoarius latirostris	native 	Broad-snouted catfish 	 	traumatogenic 
+Siluriformes	Ariidae	Neoarius leptaspis	native 	Salmon catfish 	 	traumatogenic 
+Siluriformes	Ariidae	Neoarius pectoralis	native 	Sawspine catfish 	 	traumatogenic 
+Siluriformes	Ariidae	Neoarius utarus	native 	Northern rivers catfish 	 	traumatogenic 
+Siluriformes	Ariidae	Neoarius velutinus	native 	Papillate catfish 	Kancur 	traumatogenic 
+Beryciformes	Holocentridae	Neoniphon opercularis	native 	Blackfin squirrelfish 	Kakaroe 	venomous 
+Beryciformes	Holocentridae	Neoniphon sammara	native 	Sammara squirrelfish 	Kinolu 	venomous 
+Siluriformes	Plotosidae	Neosilurus ater	native 	Narrowfront tandan 	 	venomous 
+Siluriformes	Plotosidae	Neosilurus brevidorsalis	native 	Shortfin tandan 	 	venomous 
+Myliobatiformes	Dasyatidae	Neotrygon kuhlii	misidentification 	Blue-spotted stingray 	Ali 	venomous 
+Scorpaeniformes	Tetrarogidae	Neovespicula depressifrons	native 	Leaf goblinfish 	 	venomous 
+Siluriformes	Ariidae	Netuma bilineata	native 	Bronze catfish 	 	traumatogenic 
+Siluriformes	Ariidae	Netuma thalassina	native 	Giant catfish 	Jahan 	traumatogenic 
+Rajiformes	Rajidae	Okamejei boesemani	native 	Boeseman's skate 	 	other 
+Salmoniformes	Salmonidae	Oncorhynchus mykiss	not established 	Rainbow trout 	 	potential pest 
+Orectolobiformes	Orectolobidae	Orectolobus ornatus	native 	Ornate wobbegong 	 	traumatogenic 
+Perciformes	Cichlidae	Oreochromis mossambicus	introduced 	Mozambique tilapia 	Jahir 	potential pest 
+Perciformes	Cichlidae	Oreochromis niloticus	introduced 	Nile tilapia 	Nila 	potential pest 
+Siluriformes	Ariidae	Osteogeneiosus militaris	native 	Soldier catfish 	Songop 	traumatogenic 
+Mugiliformes	Mugilidae	Osteomugil engeli	native 	Kanda 	Sindo 	potential pest 
+Tetraodontiformes	Ostraciidae	Ostracion meleagris	native 	Whitespotted boxfish 	Sapi coklat racun 	venomous 
+Tetraodontiformes	Ostraciidae	Ostracion rhinorhynchos	native 	Horn-nosed boxfish 	Rhino boxfish 	venomous 
+Tetraodontiformes	Ostraciidae	Ostracion solorensis	native 	Reticulate boxfish 	Buntel koper 	venomous 
+Perciformes	Labridae	Oxycheilinus unifasciatus	native 	Ringtail maori wrasse 	Lampa terusang 	reports of ciguatera poisoning 
+Perciformes	Acanthuridae	Paracanthurus hepatus	native 	Palette surgeonfish 	Leter enam 	venomous 
+Scorpaeniformes	Tetrarogidae	Paracentropogon longispinis	native 	Wispy waspfish 	Long-spined waspfish 	venomous 
+Perciformes	Gobiidae	Parachaeturichthys polynema	native 	Taileyed goby 	 	poisonous to eat 
+Siluriformes	Plotosidae	Paraplotosus albilabris	native 	Whitelipped eel catfish 	Sembilang 	venomous 
+Scorpaeniformes	Scorpaenidae	Parapterois heterura	native 	Blackfoot firefish 	Gurnard lionfish 	venomous 
+Scorpaeniformes	Scorpaenidae	Parascorpaena mossambica	native 	Mozambique scorpionfish 	Mozambique scorpionfish 	venomous 
+Pleuronectiformes	Soleidae	Pardachirus pavoninus	native 	Peacock sole 	Peacock sole 	venomous 
+Perciformes	Mullidae	Parupeneus cyclostomus	native 	Gold-saddle goatfish 	Ciko-ciko 	reports of ciguatera poisoning 
+Myliobatiformes	Dasyatidae	Pastinachus sephen	native 	Cowtail stingray 	Pari ayam 	venomous 
+Myliobatiformes	Dasyatidae	Pateobatis bleekeri	native 	Bleeker's whipray 	 	venomous 
+Myliobatiformes	Dasyatidae	Pateobatis fai	native 	Pink whipray 	Pari minyak 	venomous 
+Perciformes	Blenniidae	Petroscirtes breviceps	native 	Striped poison-fang blenny mimic 	Short-head sabretooth blenny 	traumatogenic 
+Perciformes	Blenniidae	Plagiotremus tapeinosoma	native 	Piano fangblenny 	Hit and run blenny 	other 
+Perciformes	Haemulidae	Plectorhinchus gibbosus	native 	Harry hotlips 	Brown sweetlips 	reports of ciguatera poisoning 
+Perciformes	Serranidae	Plectropomus areolatus	native 	Squaretail coralgrouper 	Sunu kasar 	reports of ciguatera poisoning 
+Perciformes	Serranidae	Plectropomus laevis	native 	Blacksaddled coralgrouper 	Okke makuri 	reports of ciguatera poisoning 
+Perciformes	Serranidae	Plectropomus leopardus	native 	Leopard coralgrouper 	Kerapu sunu 	reports of ciguatera poisoning 
+Perciformes	Serranidae	Plectropomus maculatus	native 	Spotted coralgrouper 	Kerapu lodi 	reports of ciguatera poisoning 
+Perciformes	Serranidae	Plectropomus oligacanthus	native 	Highfin coralgrouper 	Kerapu ladah 	reports of ciguatera poisoning 
+Siluriformes	Ariidae	Plicofollis argyropleuron	native 	Longsnouted catfish 	Manyung jahal 	traumatogenic 
+Siluriformes	Ariidae	Plicofollis dussumieri	native 	Blacktip sea catfish 	Gaguk hitam 	traumatogenic 
+Siluriformes	Ariidae	Plicofollis nella	native 	Smooth-headed catfish 	Manyung tongkol 	traumatogenic 
+Siluriformes	Ariidae	Plicofollis polystaphylodon	native 	Mozambique sea catfish 	Ikan perut 	traumatogenic 
+Siluriformes	Ariidae	Plicofollis tonggol	native 	Roughback sea catfish 	Manyung utik 	traumatogenic 
+Siluriformes	Plotosidae	Plotosus canius	native 	Gray eel-catfish 	Sembilang 	venomous 
+Siluriformes	Plotosidae	Plotosus lineatus	native 	Striped eel catfish 	Sembilang karang 	venomous 
+Siluriformes	Plotosidae	Plotosus papuensis	native 	Papuan eel-catfish 	 	venomous 
+Cyprinodontiformes	Poeciliidae	Poecilia latipinna	introduced 	Sailfin molly 	 	potential pest 
+Cyprinodontiformes	Poeciliidae	Poecilia reticulata	introduced 	Guppy 	Bahenol 	potential pest 
+Siluriformes	Ariidae	Potamosilurus macrorhynchus	native 	Sharp-nosed catfish 	 	traumatogenic 
+Carcharhiniformes	Carcharhinidae	Prionace glauca	native 	Blue shark 	Cucut selendang 	traumatogenic 
+Rhinopristiformes	Pristidae	Pristis microdon	native 	Largetooth sawfish 	Cucut gergaji 	traumatogenic 
+Rhinopristiformes	Pristidae	Pristis pectinata	native 	Smalltooth sawfish 	 	traumatogenic 
+Rhinopristiformes	Pristidae	Pristis zijsron	native 	Longcomb sawfish 	 	traumatogenic 
+Perciformes	Gempylidae	Promethichthys prometheus	native 	Roudi escolar 	 	reports of ciguatera poisoning 
+Tetraodontiformes	Balistidae	Pseudobalistes flavimarginatus	native 	Yellowmargin triggerfish 	Trigger putih 	reports of ciguatera poisoning 
+Scorpaeniformes	Scorpaenidae	Pterois antennata	native 	Broadbarred firefish 	Scorpion miles 	venomous 
+Scorpaeniformes	Scorpaenidae	Pterois lunulata	questionable 	Luna lion fish 	Japanese lionfish 	venomous 
+Scorpaeniformes	Scorpaenidae	Pterois miles	native 	Devil firefish 	Soldier lionfish 	venomous 
+Scorpaeniformes	Scorpaenidae	Pterois radiata	native 	Radial firefish 	Scorpion radiata 	venomous 
+Scorpaeniformes	Scorpaenidae	Pterois russelii	native 	Plaintail turkeyfish 	Lepu ayam 	venomous 
+Scorpaeniformes	Scorpaenidae	Pterois volitans	native 	Red lionfish 	Lepu-penganten 	venomous 
+Siluriformes	Loricariidae	Pterygoplichthys disjunctivus	introduced 	Vermiculated sailfin catfish 	 	potential pest 
+Rajiformes	Rajidae	Rajella annandalei	native 	Annandale's skate 	 	other 
+Rhinopristiformes	Rhinidae	Rhina ancylostoma	native 	Bowmouth guitarfish 	Hiu barong 	other 
+Scorpaeniformes	Scorpaenidae	Rhinopias frondosa	native 	Weedy scorpionfish 	Weedy scorpionfish 	venomous 
+Tetraodontiformes	Ostraciidae	Rhynchostracion nasus	native 	Shortnose boxfish 	 	venomous 
+Perciformes	Gempylidae	Ruvettus pretiosus	native 	Oilfish 	 	poisonous to eat 
+Beryciformes	Holocentridae	Sargocentron caudimaculatum	native 	Silverspot squirrelfish 	Lambe batu 	venomous 
+Beryciformes	Holocentridae	Sargocentron cornutum	native 	Threespot squirrelfish 	Biji rante 	venomous 
+Beryciformes	Holocentridae	Sargocentron diadema	native 	Crown squirrelfish 	Surendang 	venomous 
+Beryciformes	Holocentridae	Sargocentron ittodai	native 	Samurai squirrelfish 	Samurai squirrelfish 	venomous 
+Beryciformes	Holocentridae	Sargocentron melanospilos	native 	Blackblotch squirrelfish 	Three-spot squirrelfish 	venomous 
+Beryciformes	Holocentridae	Sargocentron microstoma	native 	Smallmouth squirrelfish 	Fine-lined squirrelfish 	venomous 
+Beryciformes	Holocentridae	Sargocentron punctatissimum	native 	Speckled squirrelfish 	Speckled squirrelfish 	venomous 
+Beryciformes	Holocentridae	Sargocentron rubrum	native 	Redcoat 	Swangi batu 	venomous 
+Beryciformes	Holocentridae	Sargocentron spiniferum	native 	Sabre squirrelfish 	Lambe 	reports of ciguatera poisoning 
+Beryciformes	Holocentridae	Sargocentron tiere	native 	Blue lined squirrelfish 	Blue-lined squirrelfish 	venomous 
+Beryciformes	Holocentridae	Sargocentron tiereoides	native 	Pink squirrelfish 	Pink squirrelfish 	venomous 
+Beryciformes	Holocentridae	Sargocentron violaceum	native 	Violet squirrelfish 	Red-faced squirrelfish 	venomous 
+Perciformes	Scatophagidae	Scatophagus argus	native 	Spotted scat 	Bidang 	venomous 
+Siluriformes	Ariidae	Sciades sona	native 	Sona sea catfish 	 	traumatogenic 
+Perciformes	Carangidae	Scomberoides lysan	native 	Doublespotted queenfish 	Lima jari 	other 
+Perciformes	Carangidae	Scomberoides tol	native 	Needlescaled queenfish 	Talang-talang 	venomous 
+Perciformes	Scombridae	Scomberomorus commerson	native 	Narrow-barred Spanish mackerel 	Tangiro 	reports of ciguatera poisoning 
+Scorpaeniformes	Scorpaenidae	Scorpaenodes albaiensis	native 	Longfingered scorpionfish 	Long-fingered scorpionfish 	venomous 
+Scorpaeniformes	Scorpaenidae	Scorpaenodes guamensis	native 	Guam scorpionfish 	Guam scorpionfish 	venomous 
+Scorpaeniformes	Scorpaenidae	Scorpaenodes hirsutus	native 	Hairy scorpionfish 	Hairy scorpionfish 	venomous 
+Scorpaeniformes	Scorpaenidae	Scorpaenodes kelloggi	native 	Kellogg's scorpionfish 	 	venomous 
+Scorpaeniformes	Scorpaenidae	Scorpaenodes minor	native 	Minor scorpionfish 	Brock's scorpionfish 	venomous 
+Scorpaeniformes	Scorpaenidae	Scorpaenodes parvipinnis	native 	Lowfin scorpionfish 	 	venomous 
+Scorpaeniformes	Scorpaenidae	Scorpaenopsis cirrosa	questionable 	Weedy stingfish 	 	venomous 
+Scorpaeniformes	Scorpaenidae	Scorpaenopsis diabolus	native 	False stonefish 	Kerapu setan 	venomous 
+Scorpaeniformes	Scorpaenidae	Scorpaenopsis gibbosa	questionable 	Humpbacked scorpionfish 	 	traumatogenic 
+Scorpaeniformes	Scorpaenidae	Scorpaenopsis macrochir	native 	Flasher scorpionfish 	Flasher scorpionfish 	venomous 
+Scorpaeniformes	Scorpaenidae	Scorpaenopsis neglecta	native 	Yellowfin scorpionfish 	 	venomous 
+Scorpaeniformes	Scorpaenidae	Scorpaenopsis oxycephala	native 	Tassled scorpionfish 	Small-scale scorpionfish 	venomous 
+Scorpaeniformes	Scorpaenidae	Scorpaenopsis venosa	native 	Raggy scorpionfish 	Raggy scorpionfish 	venomous 
+Scorpaeniformes	Scorpaenidae	Sebastapistes cyanostigma	native 	Yellowspotted scorpionfish 	Coral scorpionfish 	venomous 
+Scorpaeniformes	Scorpaenidae	Sebastapistes fowleri	native 	Pigmy scorpionfish 	 	venomous 
+Scorpaeniformes	Scorpaenidae	Sebastapistes mauritiana	native 	Spineblotch scorpionfish 	 	venomous 
+Scorpaeniformes	Scorpaenidae	Sebastapistes strongia	native 	Barchin scorpionfish 	Barchin scorpionfish 	venomous 
+Perciformes	Carangidae	Selar crumenophthalmus	native 	Bigeye scad 	Selar bentong 	reports of ciguatera poisoning 
+Perciformes	Scatophagidae	Selenotoca multifasciata	native 	Spotbanded scat 	Striped scat 	venomous 
+Perciformes	Carangidae	Seriola dumerili	native 	Greater amberjack 	 	reports of ciguatera poisoning 
+Perciformes	Carangidae	Seriola rivoliana	native 	Longfin yellowtail 	Longfin kingfish 	reports of ciguatera poisoning 
+Scorpaeniformes	Setarchidae	Setarches guentheri	native 	Channeled rockfish 	 	venomous 
+Scorpaeniformes	Setarchidae	Setarches longimanus	native 	Red deepwater scorpionfish 	 	venomous 
+Perciformes	Siganidae	Siganus argenteus	native 	Streamlined spinefoot 	Belowis silah 	venomous 
+Perciformes	Siganidae	Siganus canaliculatus	native 	White-spotted spinefoot 	Bala uwes 	venomous 
+Perciformes	Siganidae	Siganus corallinus	native 	Blue-spotted spinefoot 	Indian coral rabbitfish 	venomous 
+Perciformes	Siganidae	Siganus doliatus	native 	Barred spinefoot 	Samadar 	venomous 
+Perciformes	Siganidae	Siganus fuscescens	native 	Mottled spinefoot 	Madar 	venomous 
+Perciformes	Siganidae	Siganus guttatus	native 	Orange-spotted spinefoot 	Mulia asu 	venomous 
+Perciformes	Siganidae	Siganus javus	native 	Streaked spinefoot 	Beronang 	venomous 
+Perciformes	Siganidae	Siganus labyrinthodes	native 	Labyrinth spinefoot 	Labyrinth rabbitfish 	venomous 
+Perciformes	Siganidae	Siganus lineatus	native 	Golden-lined spinefoot 	Masadar karang 	venomous 
+Perciformes	Siganidae	Siganus puellus	native 	Masked spinefoot 	Borona makuri 	venomous 
+Perciformes	Siganidae	Siganus punctatus	native 	Goldspotted spinefoot 	Ikan baronang 	venomous 
+Perciformes	Siganidae	Siganus spinus	native 	Little spinefoot 	Belowis kangkang 	venomous 
+Perciformes	Siganidae	Siganus stellatus	native 	Brown-spotted spinefoot 	 	venomous 
+Perciformes	Siganidae	Siganus sutor	native 	Shoemaker spinefoot 	 	venomous 
+Perciformes	Siganidae	Siganus vermiculatus	native 	Vermiculated spinefoot 	Beronang tulis 	venomous 
+Perciformes	Siganidae	Siganus virgatus	native 	Barhead spinefoot 	Samadar palsu 	venomous 
+Perciformes	Siganidae	Siganus vulpinus	native 	Foxface 	Samadar cecet 	venomous 
+Perciformes	Sphyraenidae	Sphyraena barracuda	native 	Great barracuda 	Alu-alu 	traumatogenic 
+Perciformes	Sphyraenidae	Sphyraena forsteri	native 	Bigeye barracuda 	Alu-alu 	reports of ciguatera poisoning 
+Perciformes	Sphyraenidae	Sphyraena jello	native 	Pickhandle barracuda 	Alu-alu 	reports of ciguatera poisoning 
+Perciformes	Sphyraenidae	Sphyraena qenie	native 	Blackfin barracuda 	Alu-alu 	reports of ciguatera poisoning 
+Carcharhiniformes	Sphyrnidae	Sphyrna lewini	native 	Scalloped hammerhead 	Hiu bingkoh 	other 
+Carcharhiniformes	Sphyrnidae	Sphyrna mokarran	native 	Great hammerhead 	Hiu bingkoh 	other 
+Perciformes	Pomacentridae	Stegastes nigricans	native 	Dusky farmerfish 	Dusky gregory 	traumatogenic 
+Perciformes	Pomacentridae	Stegastes punctatus	native 	Blunt snout gregory 	 	traumatogenic 
+Orectolobiformes	Stegostomatidae	Stegostoma fasciatum	native 	Zebra shark 	Cucut tekeh 	traumatogenic 
+Beloniformes	Belonidae	Strongylura krefftii	native 	Long tom 	 	traumatogenic 
+Anguilliformes	Muraenidae	Strophidon sathete	native 	Slender giant moray 	 	traumatogenic 
+Perciformes	Lutjanidae	Symphorus nematophorus	native 	Chinamanfish 	Baga 	reports of ciguatera poisoning 
+Scorpaeniformes	Synanceiidae	Synanceia horrida	native 	Estuarine stonefish 	Lepu tembaga 	venomous 
+Scorpaeniformes	Synanceiidae	Synanceia verrucosa	native 	Stonefish 	Ikan batu 	venomous 
+Scorpaeniformes	Scorpaenidae	Taenianotus triacanthus	native 	Leaf scorpionfish 	Paper scorpionfish 	venomous 
+Myliobatiformes	Dasyatidae	Taeniura lymma	native 	Ribbontail stingray 	Ikan pari 	venomous 
+Myliobatiformes	Dasyatidae	Taeniurops meyeni	native 	Round ribbontail ray 	Pari babi 	venomous 
+Scorpaeniformes	Tetrarogidae	Tetraroge barbata	native 	Bearded roguefish 	 	venomous 
+Scorpaeniformes	Tetrarogidae	Tetraroge niger	native 	 	 	venomous 
+Tetraodontiformes	Ostraciidae	Tetrosomus gibbosus	native 	Humpback turretfish 	Kapila 	venomous 
+Tetraodontiformes	Ostraciidae	Tetrosomus reipublicae	native 	Smallspine turretfish 	 	venomous 
+Tetraodontiformes	Tetraodontidae	Torquigener brevipinnis	native 	 	Yellow-stripe toadfish 	venomous 
+Tetraodontiformes	Tetraodontidae	Torquigener hicksi	native 	Hick's toadfish 	 	venomous 
+Tetraodontiformes	Tetraodontidae	Torquigener pallimaculatus	native 	 	Multi-spotted toadfish 	venomous 
+Tetraodontiformes	Tetraodontidae	Torquigener parcuspinus	native 	Yellow-eyed toadfish 	 	venomous 
+Scorpaeniformes	Synanceiidae	Trachicephalus uranoscopus	native 	Stargazing stonefish 	 	venomous 
+Perciformes	Carangidae	Trachinotus blochii	native 	Snubnose pompano 	Lowang 	reports of ciguatera poisoning 
+Carcharhiniformes	Carcharhinidae	Triaenodon obesus	native 	Whitetip reef shark 	Hiu bokem 	traumatogenic 
+Perciformes	Osphronemidae	Trichopodus pectoralis	introduced 	Snakeskin gourami 	Lampot 	potential pest 
+Beloniformes	Belonidae	Tylosurus crocodilus	native 	Hound needlefish 	Kacangan 	traumatogenic 
+Perciformes	Mullidae	Upeneus taeniopterus	native 	Finstripe goatfish 	 	reports of ciguatera poisoning 
+Perciformes	Uranoscopidae	Uranoscopus sulphureus	native 	Whitemargin stargazer 	White-margin stargazer 	traumatogenic 
+Myliobatiformes	Dasyatidae	Urogymnus asperrimus	native 	Porcupine whipray 	Pari duri 	traumatogenic 
+Myliobatiformes	Dasyatidae	Urogymnus granulatus	native 	Mangrove whipray 	Pe sapi 	traumatogenic 
+Myliobatiformes	Dasyatidae	Urogymnus polylepis	native 	Giant freshwater whipray 	Pari 	venomous 
+Perciformes	Serranidae	Variola louti	native 	Yellow-edged lyretail 	Geurape cabeung 	reports of ciguatera poisoning 
+Siluriformes	Siluridae	Wallago attu	native 	Wallago 	Jambal 	traumatogenic 
+Beloniformes	Belonidae	Xenentodon cancila	native 	Freshwater garfish 	 	traumatogenic 
+Cyprinodontiformes	Poeciliidae	Xiphophorus hellerii	introduced 	Green swordtail 	Suwadakar 	potential pest 
+Perciformes	Gobiidae	Yongeichthys criniger	native 	 	Poisonous goby 	poisonous to eat 

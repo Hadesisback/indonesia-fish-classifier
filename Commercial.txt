@@ -1,0 +1,703 @@
+Order	Family	Species	Occurrence	FishBase name	Name	Use	Use_elsewhere
+Tetraodontiformes	Balistidae	Abalistes stellaris	native 	Starry triggerfish 	 	commercial 	commercial 
+Perciformes	Scombridae	Acanthocybium solandri	native 	Wahoo 	 	commercial 	commercial 
+Perciformes	Acanthuridae	Acanthurus auranticavus	native 	Orange-socket surgeonfish 	Ring-tail surgeon 	commercial 	commercial 
+Perciformes	Acanthuridae	Acanthurus bariene	native 	Black-spot surgeonfish 	Eye-spot surgeon 	commercial 	commercial 
+Perciformes	Acanthuridae	Acanthurus blochii	native 	Ringtail surgeonfish 	Dark surgeon 	commercial 	commercial 
+Perciformes	Acanthuridae	Acanthurus dussumieri	native 	Eyestripe surgeonfish 	Pencilled surgeon 	commercial 	minor commercial 
+Perciformes	Acanthuridae	Acanthurus grammoptilus	native 	Finelined surgeonfish 	 	commercial 	commercial 
+Perciformes	Acanthuridae	Acanthurus leucosternon	native 	Powderblue surgeonfish 	Botana biru 	minor commercial 	minor commercial 
+Perciformes	Acanthuridae	Acanthurus lineatus	native 	Lined surgeonfish 	Botana kasur 	commercial 	commercial 
+Perciformes	Acanthuridae	Acanthurus maculiceps	native 	White-freckled surgeonfish 	Spot-face surgeon 	commercial 	commercial 
+Perciformes	Acanthuridae	Acanthurus mata	native 	Elongate surgeonfish 	Buntana 	commercial 	commercial 
+Perciformes	Acanthuridae	Acanthurus nigricauda	native 	Epaulette surgeonfish 	Dodoh 	commercial 	commercial 
+Perciformes	Acanthuridae	Acanthurus nigrofuscus	native 	Brown surgeonfish 	Dusky surgeonfish 	commercial 	commercial 
+Perciformes	Acanthuridae	Acanthurus olivaceus	native 	Orangespot surgeonfish 	Botana coklat 	commercial 	commercial 
+Perciformes	Acanthuridae	Acanthurus pyroferus	native 	Chocolate surgeonfish 	Botana model 	commercial 	commercial 
+Perciformes	Acanthuridae	Acanthurus triostegus	native 	Convict surgeonfish 	Botana lorek 	commercial 	commercial 
+Perciformes	Acanthuridae	Acanthurus xanthopterus	native 	Yellowfin surgeonfish 	Kuu wadu 	commercial 	minor commercial 
+Perciformes	Serranidae	Aethaloperca rogaa	native 	Redmouth grouper 	Geurape itam 	minor commercial 	minor commercial 
+Myliobatiformes	Aetobatidae	Aetobatus flagellum	native 	Longheaded eagle ray 	Pari burung 	minor commercial 	minor commercial 
+Myliobatiformes	Aetobatidae	Aetobatus narinari	native 	Whitespotted eagle ray 	Pari burung 	minor commercial 	minor commercial 
+Myliobatiformes	Myliobatidae	Aetomylaeus nichofii	native 	Banded eagle ray 	Pari burung 	minor commercial 	minor commercial 
+Albuliformes	Albulidae	Albula glossodonta	native 	Roundjaw bonefish 	 	minor commercial 	minor commercial 
+Perciformes	Carangidae	Alectis ciliaris	native 	African pompano 	Ikan rambut 	minor commercial 	minor commercial 
+Perciformes	Carangidae	Alectis indica	native 	Indian threadfish 	Kwee rombeh 	commercial 	commercial 
+Perciformes	Carangidae	Alepes djedaba	native 	Shrimp scad 	Bagat 	commercial 	commercial 
+Perciformes	Carangidae	Alepes kleinii	native 	Razorbelly scad 	 	minor commercial 	minor commercial 
+Perciformes	Carangidae	Alepes melanoptera	native 	Blackfin scad 	Selar ubur-ubur 	minor commercial 	minor commercial 
+Perciformes	Carangidae	Alepes vari	native 	Herring scad 	Trevally scad 	minor commercial 	minor commercial 
+Lamniformes	Alopiidae	Alopias vulpinus	native 	Thresher 	 	commercial 	commercial 
+Perciformes	Ambassidae	Ambassis gymnocephalus	native 	Bald glassy 	Pangkah 	minor commercial 	minor commercial 
+Perciformes	Ambassidae	Ambassis interrupta	native 	Long-spined glass perchlet 	Serinding 	minor commercial 	minor commercial 
+Clupeiformes	Clupeidae	Amblygaster clupeoides	native 	Bleeker smoothbelly sardinella 	Cincin 	commercial 	commercial 
+Clupeiformes	Clupeidae	Amblygaster leiogaster	native 	Smoothbelly sardinella 	Lemuru 	subsistence fisheries 	subsistence fisheries 
+Clupeiformes	Clupeidae	Amblygaster sirm	native 	Spotted sardinella 	Siro 	minor commercial 	commercial 
+Perciformes	Pomacentridae	Amphiprion clarkii	native 	Yellowtail clownfish 	Giro pasir biasa 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Pomacentridae	Amphiprion melanopus	native 	Fire clownfish 	Black anemonefish 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Anabantidae	Anabas testudineus	native Climbing perch	Betok	commercial	commercial 
+Anguilliformes	Anguillidae	Anguilla bicolor	native 	Indonesian shortfin eel 	 	commercial 	minor commercial 
+Anguilliformes	Anguillidae	Anguilla celebesensis	native 	Celebes longfin eel 	Menguling 	commercial 	minor commercial 
+Anguilliformes	Anguillidae	Anguilla marmorata	native 	Giant mottled eel 	Moa kembang 	commercial 	commercial 
+Clupeiformes	Clupeidae	Anodontostoma chacunda	native 	Chacunda gizzard shad 	Selangkat 	commercial 	commercial 
+Clupeiformes	Clupeidae	Anodontostoma selangkat	native 	Indonesian gizzard shad 	 	subsistence fisheries 	subsistence fisheries 
+Clupeiformes	Clupeidae	Anodontostoma thailandiae	native 	Thai gizzard shad 	 	subsistence fisheries 	subsistence fisheries 
+Rhinopristiformes	Pristidae	Anoxypristis cuspidata	native 	Pointed sawfish 	Cucut gergaji 	commercial 	commercial 
+Perciformes	Serranidae	Anyperodon leucogrammicus	native 	Slender grouper 	Kiapu tallah 	minor commercial 	minor commercial 
+Perciformes	Lutjanidae	Aphareus furca	native 	Small toothed jobfish 	Kurus bali 	commercial 	commercial 
+Perciformes	Lutjanidae	Aphareus rutilans	native 	Rusty jobfish 	Cangah 	commercial 	commercial 
+Scorpaeniformes	Apistidae	Apistus carinatus	native 	Ocellated waspfish 	Longfin waspfish 	minor commercial 	minor commercial 
+Cyprinodontiformes	Aplocheilidae	Aplocheilus panchax	native 	Blue panchax 	Kepala timah 	commercial 	minor commercial 
+Perciformes	Lutjanidae	Aprion virescens	native 	Green jobfish 	Ikan agam 	highly commercial 	highly commercial 
+Perciformes	Sparidae	Argyrops spinifer	native 	King soldier bream 	Abat 	commercial 	commercial 
+Perciformes	Sciaenidae	Argyrosomus amoyensis	native 	Amoy croaker 	 	commercial 	commercial 
+Perciformes	Ariommatidae	Ariomma indicum	native 	Indian driftfish 	 	commercial 	commercial 
+Siluriformes	Ariidae	Arius maculatus	native 	Spotted catfish 	Lundu 	commercial 	commercial 
+Siluriformes	Ariidae	Arius venosus	native 	Veined catfish 	Duri manyung 	commercial 	commercial 
+Perciformes	Sciaenidae	Aspericorvina jubata	native 	Prickly croaker 	 	commercial 	minor commercial 
+Carcharhiniformes	Scyliorhinidae	Atelomycterus marmoratus	native 	Coral catshark 	Cucut kembang 	minor commercial 	subsistence fisheries 
+Perciformes	Sciaenidae	Atrobucca nibe	native 	Blackmouth croaker 	 	commercial 	commercial 
+Perciformes	Carangidae	Atropus atropos	native 	Cleftbelly trevally 	Cipa-cipa 	minor commercial 	minor commercial 
+Perciformes	Carangidae	Atule mate	native 	Yellowtail scad 	Selar como 	minor commercial 	minor commercial 
+Perciformes	Leiognathidae	Aurigequula fasciata	native 	Striped ponyfish 	Peperek 	commercial 	minor commercial 
+Perciformes	Scombridae	Auxis rochei	native 	Bullet tuna 	Curubok 	highly commercial 	highly commercial 
+Perciformes	Scombridae	Auxis thazard	native 	Frigate tuna 	Alalalum 	highly commercial 	highly commercial 
+Siluriformes	Sisoridae	Bagarius bagarius	native 	Goonch 	Kelaling 	minor commercial 	minor commercial 
+Siluriformes	Bagridae	Bagrichthys hypselopterus	native 	Blacklancer catfish 	Baung layar 	commercial 	commercial 
+Siluriformes	Bagridae	Bagrichthys macropterus	native 	False black lancer 	Ikan pisang 	commercial 	commercial 
+Tetraodontiformes	Balistidae	Balistoides conspicillum	native 	Clown triggerfish 	Triger kembang 	subsistence fisheries 	minor commercial 
+Cypriniformes	Cyprinidae	Barbodes binotatus	native 	Spotted barb 	Bada putiah 	commercial 	minor commercial 
+Cypriniformes	Cyprinidae	Barbonymus gonionotus	native 	Silver barb 	Bader putihan 	commercial 	commercial 
+Cypriniformes	Cyprinidae	Barbonymus schwanenfeldii	native 	Tinfoil barb 	Ikan lempam 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Osphronemidae	Belontia hasselti	native 	Malay combtail 	Ketoprak 	commercial 	commercial 
+Perciformes	Osphronemidae	Betta anabatoides	native 	Giant betta 	Melantau 	minor commercial 	minor commercial 
+Pleuronectiformes	Bothidae	Bothus pantherinus	native 	Leopard flounder 	Ikan sebelah bundar 	commercial 	commercial 
+Pleuronectiformes	Soleidae	Brachirus orientalis	native 	Oriental sole 	 	commercial 	commercial 
+Perciformes	Caesionidae	Caesio caerulaurea	native 	Blue and gold fusilier 	Andau 	commercial 	commercial 
+Perciformes	Caesionidae	Caesio cuning	native 	Redbelly yellowtail fusilier 	Ekor kuning 	commercial 	commercial 
+Perciformes	Caesionidae	Caesio lunaris	native 	Lunar fusilier 	Pisang-pisang 	minor commercial 	minor commercial 
+Perciformes	Caesionidae	Caesio teres	native 	Yellow and blueback fusilier 	Antuan 	minor commercial 	minor commercial 
+Perciformes	Caesionidae	Caesio varilineata	native 	Variable-lined fusilier 	Thin-lined fusilier 	minor commercial 	minor commercial 
+Perciformes	Caesionidae	Caesio xanthonota	native 	Yellowback fusilier 	Antuan 	minor commercial 	minor commercial 
+Perciformes	Carangidae	Carangoides armatus	native 	Longfin trevally 	Kwee 	minor commercial 	commercial 
+Perciformes	Carangidae	Carangoides bajad	native 	Orangespotted trevally 	Kwee tutul 	commercial 	commercial 
+Perciformes	Carangidae	Carangoides chrysophrys	native 	Longnose trevally 	Kwee 	commercial 	commercial 
+Perciformes	Carangidae	Carangoides coeruleopinnatus	native 	Coastal trevally 	Simba-simba lili bonua 	commercial 	minor commercial 
+Perciformes	Carangidae	Carangoides dinema	native 	Shadow trevally 	Kwee 	commercial 	minor commercial 
+Perciformes	Carangidae	Carangoides ferdau	native 	Blue trevally 	Nyubba biasa 	minor commercial 	commercial 
+Perciformes	Carangidae	Carangoides fulvoguttatus	native 	Yellowspotted trevally 	Kwee macan 	commercial 	commercial 
+Perciformes	Carangidae	Carangoides gymnostethus	native 	Bludger 	Kwee lilin 	commercial 	commercial 
+Perciformes	Carangidae	Carangoides hedlandensis	native 	Bumpnose trevally 	 	minor commercial 	commercial 
+Perciformes	Carangidae	Carangoides humerosus	native 	Duskyshoulder trevally 	 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Carangidae	Carangoides malabaricus	native 	Malabar trevally 	Kuweh 	commercial 	commercial 
+Perciformes	Carangidae	Carangoides oblongus	native 	Coachwhip trevally 	Kwee 	minor commercial 	commercial 
+Perciformes	Carangidae	Carangoides orthogrammus	native 	Island trevally 	Pipilli 	minor commercial 	commercial 
+Perciformes	Carangidae	Carangoides plagiotaenia	native 	Barcheek trevally 	Bar-cheek trevally 	commercial 	minor commercial 
+Perciformes	Carangidae	Carangoides praeustus	native 	Brownback trevally 	Selar malam 	minor commercial 	commercial 
+Perciformes	Carangidae	Carangoides talamparoides	native 	Imposter trevally 	 	minor commercial 	commercial 
+Perciformes	Carangidae	Caranx bucculentus	native 	Bluespotted trevally 	 	minor commercial 	minor commercial 
+Perciformes	Carangidae	Caranx heberi	native 	Blacktip trevally 	Black-tip trevally 	minor commercial 	minor commercial 
+Perciformes	Carangidae	Caranx ignobilis	native 	Giant trevally 	Gapok 	commercial 	commercial 
+Perciformes	Carangidae	Caranx melampygus	native 	Bluefin trevally 	Cá Khế vây đen 	commercial 	commercial 
+Perciformes	Carangidae	Caranx papuensis	native 	Brassy trevally 	Nyubba langko kape 	minor commercial 	minor commercial 
+Perciformes	Carangidae	Caranx sexfasciatus	native 	Bigeye trevally 	Selar 	commercial 	commercial 
+Perciformes	Carangidae	Caranx tille	native 	Tille trevally 	Gabu 	minor commercial 	minor commercial 
+Carcharhiniformes	Carcharhinidae	Carcharhinus amblyrhynchoides	native 	Graceful shark 	Cucut lanjaman 	minor commercial 	minor commercial 
+Carcharhiniformes	Carcharhinidae	Carcharhinus amboinensis	native 	Pigeye shark 	Mongiwa 	minor commercial 	minor commercial 
+Carcharhiniformes	Carcharhinidae	Carcharhinus brevipinna	native 	Spinner shark 	Cucut lanjaman 	commercial 	commercial 
+Carcharhiniformes	Carcharhinidae	Carcharhinus dussumieri	questionable 	Whitecheek shark 	Cucut lanjaman 	commercial 	commercial 
+Carcharhiniformes	Carcharhinidae	Carcharhinus hemiodon	native 	Pondicherry shark 	 	subsistence fisheries 	subsistence fisheries 
+Carcharhiniformes	Carcharhinidae	Carcharhinus leucas	native 	Bull shark 	Cucut bekeman 	commercial 	commercial 
+Carcharhiniformes	Carcharhinidae	Carcharhinus limbatus	native 	Blacktip shark 	Cucut lanjaman 	commercial 	commercial 
+Carcharhiniformes	Carcharhinidae	Carcharhinus longimanus	native 	Oceanic whitetip shark 	Cucut koboy 	commercial 	commercial 
+Carcharhiniformes	Carcharhinidae	Carcharhinus macloti	native 	Hardnose shark 	Hiu aron 	commercial 	minor commercial 
+Carcharhiniformes	Carcharhinidae	Carcharhinus melanopterus	native 	Blacktip reef shark 	Anak hiu 	commercial 	commercial 
+Carcharhiniformes	Carcharhinidae	Carcharhinus plumbeus	native 	Sandbar shark 	Cucut lanjaman 	commercial 	commercial 
+Carcharhiniformes	Carcharhinidae	Carcharhinus sealei	native 	Blackspot shark 	Cucut lanjaman 	commercial 	commercial 
+Carcharhiniformes	Carcharhinidae	Carcharhinus sorrah	native 	Spot-tail shark 	Cucut lanjaman 	commercial 	minor commercial 
+Perciformes	Pomacanthidae	Centropyge bicolor	native 	Bicolor angelfish 	Angel biru kuning 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Pomacanthidae	Centropyge bispinosa	native 	Twospined angelfish 	Angel kenedy 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Pomacanthidae	Centropyge vrolikii	native 	Pearlscale angelfish 	Angel abu polos 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Serranidae	Cephalopholis argus	native 	Peacock hind 	Geurape brinchek itam 	commercial 	commercial 
+Perciformes	Serranidae	Cephalopholis aurantia	native 	Golden hind 	Kiapu mira 	minor commercial 	minor commercial 
+Perciformes	Serranidae	Cephalopholis boenak	native 	Chocolate hind 	Bandih 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Serranidae	Cephalopholis cyanostigma	native 	Bluespotted hind 	Kerapu karang 	minor commercial 	minor commercial 
+Perciformes	Serranidae	Cephalopholis formosa	native 	Bluelined hind 	Blue-lined rock cod 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Serranidae	Cephalopholis microprion	native 	Freckled hind 	Blue-finned rock cod 	minor commercial 	minor commercial 
+Perciformes	Serranidae	Cephalopholis miniata	native 	Coral hind 	Sunu merah 	commercial 	commercial 
+Perciformes	Serranidae	Cephalopholis polleni	native 	Harlequin hind 	Gerape 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Serranidae	Cephalopholis sexmaculata	native 	Sixblotch hind 	Saddled rock cod 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Serranidae	Cephalopholis sonnerati	native 	Tomato hind 	Geurape pandak 	commercial 	commercial 
+Perciformes	Serranidae	Cephalopholis spiloparaea	native 	Strawberry hind 	Kiapu mira polos 	minor commercial 	minor commercial 
+Perciformes	Serranidae	Cephalopholis urodeta	native 	Darkfin hind 	Kerapu 	subsistence fisheries 	subsistence fisheries 
+Carcharhiniformes	Hemigaleidae	Chaenogaleus macrostoma	native 	Hooktooth shark 	Hiu kacang 	commercial 	minor commercial 
+Perciformes	Chaetodontidae	Chaetodon kleinii	native 	Sunburst butterflyfish 	Kepe orange 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Channidae	Channa bankanensis	native 	 	Runtuk 	commercial 	commercial 
+Perciformes	Channidae	Channa cyanospilos	native 	 	 	commercial 	commercial 
+Perciformes	Channidae	Channa lucius	native 	 	Runtuk 	commercial 	commercial 
+Perciformes	Channidae	Channa marulioides	native 	 	Piyang 	minor commercial 	minor commercial 
+Perciformes	Channidae	Channa melasoma	native 	Black snakehead 	 	commercial 	commercial 
+Perciformes	Channidae	Channa micropeltes	native 	Indonesian snakehead 	Kamal fish 	commercial 	commercial 
+Perciformes	Channidae	Channa pleurophthalma	native 	 	Ocellated snakehead 	commercial 	commercial 
+Perciformes	Channidae	Channa striata	native 	Striped snakehead 	Aruwan 	commercial 	highly commercial 
+Gonorynchiformes	Chanidae	Chanos chanos	native 	Milkfish 	Bandeng 	highly commercial 	highly commercial 
+Pleuronectiformes	Bothidae	Chascanopsetta lugubris	native 	Pelican flounder 	 	commercial 	commercial 
+Perciformes	Labridae	Cheilinus undulatus	native 	Humphead wrasse 	Napoleon 	commercial 	minor commercial 
+Mugiliformes	Mugilidae	Chelon planiceps	native 	Tade gray mullet 	Belanak sipit 	commercial 	commercial 
+Orectolobiformes	Hemiscylliidae	Chiloscyllium griseum	native 	Grey bambooshark 	 	commercial 	commercial 
+Orectolobiformes	Hemiscylliidae	Chiloscyllium indicum	native 	Slender bambooshark 	Cucut tekeh 	commercial 	commercial 
+Orectolobiformes	Hemiscylliidae	Chiloscyllium punctatum	native 	Brownbanded bambooshark 	Mungsing hiu 	commercial 	commercial 
+Clupeiformes	Chirocentridae	Chirocentrus dorab	native 	Dorab wolf-herring 	Bale bale 	commercial 	commercial 
+Clupeiformes	Chirocentridae	Chirocentrus nudus	native 	Whitefin wolf-herring 	 	highly commercial 	highly commercial 
+Osteoglossiformes	Notopteridae	Chitala hypselonotus	native 	 	Belida 	commercial 	commercial 
+Aulopiformes	Chlorophthalmidae	Chlorophthalmus agassizi	native 	Shortnose greeneye 	 	commercial 	minor commercial 
+Perciformes	Pomacentridae	Chromis atripectoralis	native 	Black-axil chromis 	Blue-green puller 	subsistence fisheries 	subsistence fisheries 
+Cypriniformes	Cobitidae	Chromobotia macracanthus	endemic 	Clown loach 	Entebering 	minor commercial 	minor commercial 
+Perciformes	Sciaenidae	Chrysochir aureus	native 	Reeve's croaker 	 	commercial 	minor commercial 
+Cypriniformes	Cyprinidae	Cirrhinus molitorella	not established 	Mud carp 	 	commercial 	commercial 
+Siluriformes	Clariidae	Clarias batrachus	native 	Philippine catfish 	Ikan lele 	commercial 	commercial 
+Siluriformes	Clariidae	Clarias gariepinus	introduced 	North African catfish 	 	minor commercial 	minor commercial 
+Clupeiformes	Clupeidae	Clupeichthys bleekeri	native 	Kapuas river sprat 	Bilis 	subsistence fisheries 	subsistence fisheries 
+Clupeiformes	Clupeidae	Clupeichthys goniognathus	native 	Sumatran river sprat 	Bilis tamban 	subsistence fisheries 	subsistence fisheries 
+Clupeiformes	Clupeidae	Clupeoides borneensis	native 	Borneo river sprat 	Bilis 	subsistence fisheries 	subsistence fisheries 
+Clupeiformes	Clupeidae	Clupeoides hypselosoma	native 	Kalimantan river sprat 	 	subsistence fisheries 	subsistence fisheries 
+Clupeiformes	Clupeidae	Clupeoides papuensis	native 	Papuan river sprat 	 	subsistence fisheries 	subsistence fisheries 
+Clupeiformes	Clupeidae	Clupeoides venulosus	native 	West Irian river sprat 	 	subsistence fisheries 	subsistence fisheries 
+Clupeiformes	Engraulidae	Coilia coomansi	native 	Cooman's grenadier anchovy 	Sampu layang 	subsistence fisheries 	subsistence fisheries 
+Clupeiformes	Engraulidae	Coilia dussumieri	native 	Goldspotted grenadier anchovy 	Mangban 	commercial 	commercial 
+Clupeiformes	Engraulidae	Coilia lindmani	native 	Lindman's grenadier anchovy 	 	subsistence fisheries 	subsistence fisheries 
+Clupeiformes	Engraulidae	Coilia macrognathos	native 	Longjaw grenadier anchovy 	Gunjing 	subsistence fisheries 	commercial 
+Clupeiformes	Engraulidae	Coilia neglecta	native 	Neglected grenadier anchovy 	 	subsistence fisheries 	subsistence fisheries 
+Clupeiformes	Engraulidae	Coilia rebentischii	native 	Many-fingered grenadier anchovy 	 	subsistence fisheries 	subsistence fisheries 
+Anguilliformes	Muraenesocidae	Congresox talabon	native 	Yellow pike conger 	Remang 	minor commercial 	minor commercial 
+Anguilliformes	Muraenesocidae	Congresox talabonoides	native 	Indian pike conger 	 	commercial 	commercial 
+Clupeiformes	Clupeidae	Corica laciniata	native 	Bangkok river sprat 	 	subsistence fisheries 	subsistence fisheries 
+Clupeiformes	Clupeidae	Corica soborna	native 	Ganges river sprat 	 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Coryphaenidae	Coryphaena equiselis	native 	Pompano dolphinfish 	 	commercial 	minor commercial 
+Perciformes	Coryphaenidae	Coryphaena hippurus	native 	Common dolphinfish 	Lemadang 	commercial 	highly commercial 
+Cypriniformes	Cyprinidae	Cosmochilus falcifer	native 	 	 	commercial 	minor commercial 
+Perciformes	Serranidae	Cromileptes altivelis	native 	Humpback grouper 	Kko 	commercial 	commercial 
+Cypriniformes	Cyprinidae	Ctenopharyngodon idella	introduced 	Grass carp 	Tonggan 	highly commercial 	minor commercial 
+Cypriniformes	Cyprinidae	Cyclocheilichthys apogon	native 	Beardless barb 	Engkaras 	commercial 	commercial 
+Cypriniformes	Cyprinidae	Cyclocheilichthys enoplos	native 	 	Badjang 	commercial 	commercial 
+Pleuronectiformes	Cynoglossidae	Cynoglossus arel	native 	Largescale tonguesole 	Ikan Lidah 	commercial 	commercial 
+Pleuronectiformes	Cynoglossidae	Cynoglossus bilineatus	native 	Fourlined tonguesole 	Lidah lumpur 	commercial 	commercial 
+Pleuronectiformes	Cynoglossidae	Cynoglossus cynoglossus	native 	Bengal tongue sole 	 	commercial 	commercial 
+Pleuronectiformes	Cynoglossidae	Cynoglossus lida	native 	Roughscale tonguesole 	Ikan Lidah 	minor commercial 	minor commercial 
+Pleuronectiformes	Cynoglossidae	Cynoglossus lingua	native 	Long tongue sole 	Akpaak 	commercial 	commercial 
+Pleuronectiformes	Cynoglossidae	Cynoglossus puncticeps	native 	Speckled tonguesole 	Lempa 	commercial 	commercial 
+Cypriniformes	Cyprinidae	Cyprinus carpio	introduced 	Common carp 	Ihan mas 	highly commercial 	highly commercial 
+Beloniformes	Exocoetidae	Cypselurus oligolepis	native 	Largescale flyingfish 	 	minor commercial 	minor commercial 
+Beloniformes	Exocoetidae	Cypselurus opisthopus	native 	Black-finned flyingfish 	 	minor commercial 	minor commercial 
+Beloniformes	Exocoetidae	Cypselurus poecilopterus	native 	Yellowing flyingfish 	Antoni 	minor commercial 	minor commercial 
+Perciformes	Datnioididae	Datnioides polota	native 	 	 	commercial 	commercial 
+Perciformes	Carangidae	Decapterus kurroides	native 	Redtail scad 	Malalugis 	commercial 	commercial 
+Perciformes	Carangidae	Decapterus macarellus	native 	Mackerel scad 	Mackerel scad 	commercial 	commercial 
+Perciformes	Carangidae	Decapterus macrosoma	native 	Shortfin scad 	Bengol deles 	commercial 	commercial 
+Perciformes	Carangidae	Decapterus russelli	native 	Indian scad 	Julung-julung 	commercial 	highly commercial 
+Perciformes	Sciaenidae	Dendrophysa russelii	native 	Goatee croaker 	Lemah 	minor commercial 	minor commercial 
+Perciformes	Sparidae	Dentex tumifrons	questionable 	Yellowback seabream 	 	commercial 	commercial 
+Beloniformes	Zenarchopteridae	Dermogenys pusilla	native 	Wrestling halfbeak 	Julung-julung 	commercial 	minor commercial 
+Cypriniformes	Cyprinidae	Desmopuntius johorensis	native 	Striped barb 	Seluang 	commercial 	commercial 
+Perciformes	Haemulidae	Diagramma pictum	native 	Painted sweetlips 	Gajih 	commercial 	commercial 
+Perciformes	Caesionidae	Dipterygonotus balteatus	native 	Mottled fusilier 	Bileh apui 	minor commercial 	minor commercial 
+Perciformes	Drepaneidae	Drepane punctata	native 	Spotted sicklefish 	Ang saang 	commercial 	commercial 
+Clupeiformes	Dussumieriidae	Dussumieria acuta	native 	Rainbow sardine 	Japuh 	commercial 	highly commercial 
+Clupeiformes	Dussumieriidae	Dussumieria elopsoides	native 	Slender rainbow sardine 	Tembang bines 	minor commercial 	minor commercial 
+Anguilliformes	Muraenidae	Echidna nebulosa	native 	Starry moray 	Apate 	subsistence fisheries 	minor commercial 
+Scorpaeniformes	Setarchidae	Ectreposebastes imus	native 	Midwater scorpionfish 	 	minor commercial 	minor commercial 
+Perciformes	Carangidae	Elagatis bipinnulata	native 	Rainbow runner 	Cumok 	commercial 	highly commercial 
+Perciformes	Polynemidae	Eleutheronema tetradactylum	native 	Fourfinger threadfin 	Kurau 	commercial 	highly commercial 
+Elopiformes	Elopidae	Elops machnata	native 	Tenpounder 	 	commercial 	commercial 
+Clupeiformes	Engraulidae	Encrasicholina devisi	native 	Devis' anchovy 	 	minor commercial 	minor commercial 
+Clupeiformes	Engraulidae	Encrasicholina heteroloba	native 	Shorthead anchovy 	Ainama 	minor commercial 	minor commercial 
+Clupeiformes	Engraulidae	Encrasicholina punctifer	native 	Buccaneer anchovy 	 	minor commercial 	minor commercial 
+Clupeiformes	Engraulidae	Engraulis japonicus	native 	Japanese anchovy 	Ikan putih 	highly commercial 	highly commercial 
+Pleuronectiformes	Bothidae	Engyprosopon grandisquama	native 	Largescale flounder 	 	commercial 	commercial 
+Perciformes	Ephippidae	Ephippus orbis	native 	Orbfish 	Gandu 	commercial 	commercial 
+Perciformes	Serranidae	Epinephelus amblycephalus	native 	Banded grouper 	 	minor commercial 	minor commercial 
+Perciformes	Serranidae	Epinephelus areolatus	native 	Areolate grouper 	Gerape bandi 	commercial 	commercial 
+Perciformes	Serranidae	Epinephelus bleekeri	native 	Duskytail grouper 	Babunjai 	minor commercial 	minor commercial 
+Perciformes	Serranidae	Epinephelus coeruleopunctatus	native 	Whitespotted grouper 	Geurape karet 	minor commercial 	minor commercial 
+Perciformes	Serranidae	Epinephelus coioides	native 	Orange-spotted grouper 	Geurape kuneng 	commercial 	commercial 
+Perciformes	Serranidae	Epinephelus corallicola	native 	Coral grouper 	Kerapu belosoh 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Serranidae	Epinephelus cyanopodus	native 	Speckled blue grouper 	Lumu tarunsang 	minor commercial 	minor commercial 
+Perciformes	Serranidae	Epinephelus epistictus	native 	Dotted grouper 	 	minor commercial 	minor commercial 
+Perciformes	Serranidae	Epinephelus erythrurus	native 	Cloudy grouper 	Cloudy rock cod 	minor commercial 	minor commercial 
+Perciformes	Serranidae	Epinephelus fasciatus	native 	Blacktip grouper 	Geurape bungong kala 	commercial 	commercial 
+Perciformes	Serranidae	Epinephelus faveatus	native 	Barred-chest grouper 	 	commercial 	commercial 
+Perciformes	Serranidae	Epinephelus flavocaeruleus	native 	Blue-and-yellow grouper 	Geurape kuneng 	commercial 	commercial 
+Perciformes	Serranidae	Epinephelus fuscoguttatus	native 	Brown-marbled grouper 	Kerapu macan 	minor commercial 	minor commercial 
+Perciformes	Serranidae	Epinephelus heniochus	native 	Bridled grouper 	 	commercial 	commercial 
+Perciformes	Serranidae	Epinephelus lanceolatus	native 	Giant grouper 	Kerapu lumpur 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Serranidae	Epinephelus longispinis	native 	Longspine grouper 	Long-spine rock cod 	commercial 	commercial 
+Perciformes	Serranidae	Epinephelus macrospilos	native 	Snubnose grouper 	Snubnose rock cod 	commercial 	commercial 
+Perciformes	Serranidae	Epinephelus maculatus	native 	Highfin grouper 	Kiapu nyarengkeh 	minor commercial 	minor commercial 
+Perciformes	Serranidae	Epinephelus malabaricus	native 	Malabar grouper 	Kerapu lumpar 	highly commercial 	highly commercial 
+Perciformes	Serranidae	Epinephelus melanostigma	native 	One-blotch grouper 	Black-spot grouper 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Serranidae	Epinephelus merra	native 	Honeycomb grouper 	Geurape musang 	commercial 	commercial 
+Perciformes	Serranidae	Epinephelus miliaris	native 	Netfin grouper 	Kiapu nyarengkeh 	minor commercial 	minor commercial 
+Perciformes	Serranidae	Epinephelus morrhua	native 	Comet grouper 	Kiapu kokoro 	minor commercial 	minor commercial 
+Perciformes	Serranidae	Epinephelus ongus	native 	White-streaked grouper 	White-speckled rock cod 	minor commercial 	minor commercial 
+Perciformes	Serranidae	Epinephelus polyphekadion	native 	Camouflage grouper 	Kiapu ngaluhu 	commercial 	commercial 
+Perciformes	Serranidae	Epinephelus polystigma	native 	White-dotted grouper 	 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Serranidae	Epinephelus quoyanus	native 	Longfin grouper 	Kerapu tutul 	commercial 	commercial 
+Perciformes	Serranidae	Epinephelus retouti	native 	Red-tipped grouper 	 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Serranidae	Epinephelus rivulatus	native 	Halfmoon grouper 	 	minor commercial 	minor commercial 
+Perciformes	Serranidae	Epinephelus sexfasciatus	native 	Sixbar grouper 	Balang 	commercial 	commercial 
+Perciformes	Serranidae	Epinephelus spilotoceps	native 	Foursaddle grouper 	 	commercial 	commercial 
+Perciformes	Serranidae	Epinephelus stictus	native 	Black-dotted grouper 	 	minor commercial 	minor commercial 
+Perciformes	Serranidae	Epinephelus undulosus	native 	Wavy-lined grouper 	Wavy-lined rock cod 	minor commercial 	minor commercial 
+Perciformes	Leiognathidae	Equulites leuciscus	native 	Whipfin ponyfish 	Highfin ponyfish 	minor commercial 	commercial 
+Clupeiformes	Clupeidae	Escualosa thoracata	native 	White sardine 	Cancang 	commercial 	commercial 
+Perciformes	Lutjanidae	Etelis carbunculus	native 	Deep-water red snapper 	Langkuabo mira 	highly commercial 	highly commercial 
+Perciformes	Lutjanidae	Etelis coruscans	native 	Deepwater longtail red snapper 	 	highly commercial 	highly commercial 
+Perciformes	Lutjanidae	Etelis radiosus	native 	Pale snapper 	Langkuabo 	minor commercial 	minor commercial 
+Perciformes	Leiognathidae	Eubleekeria splendens	native 	Splendid ponyfish 	Bondol 	commercial 	commercial 
+Perciformes	Trichiuridae	Eupleurogrammus glossodon	native 	Longtooth hairtail 	 	commercial 	commercial 
+Perciformes	Trichiuridae	Eupleurogrammus muticus	native 	Smallhead hairtail 	Jogor 	commercial 	commercial 
+Carcharhiniformes	Sphyrnidae	Eusphyra blochii	native 	Winghead shark 	Cucutronggeng 	commercial 	commercial 
+Perciformes	Scombridae	Euthynnus affinis	native 	Kawakawa 	Timphik 	highly commercial 	highly commercial 
+Carcharhiniformes	Carcharhinidae	Galeocerdo cuvier	native 	Tiger shark 	Cucut macan 	commercial 	commercial 
+Perciformes	Leiognathidae	Gazza achlamys	native 	Smalltoothed ponyfish 	 	commercial 	minor commercial 
+Perciformes	Leiognathidae	Gazza minuta	native 	Toothpony 	Peperek bondolan 	commercial 	commercial 
+Perciformes	Gempylidae	Gempylus serpens	native 	Snake mackerel 	 	subsistence fisheries 	minor commercial 
+Perciformes	Gerreidae	Gerres filamentosus	native 	Whipfin silver-biddy 	Abat like 	minor commercial 	minor commercial 
+Perciformes	Gerreidae	Gerres oyena	native 	Common silver-biddy 	Babansa 	commercial 	commercial 
+Perciformes	Carangidae	Gnathanodon speciosus	native 	Golden trevally 	Pidana 	minor commercial 	minor commercial 
+Perciformes	Lethrinidae	Gnathodentex aureolineatus	native 	Striped large-eye bream 	Randa moruta 	commercial 	commercial 
+Perciformes	Serranidae	Gracila albomarginata	native 	Masked grouper 	Kiapu bandoka 	minor commercial 	minor commercial 
+Perciformes	Scombridae	Grammatorcynus bilineatus	native 	Double-lined mackerel 	Ande ande 	minor commercial 	minor commercial 
+Scorpaeniformes	Platycephalidae	Grammoplites scaber	native 	Rough flathead 	Muntu kerkau 	minor commercial 	minor commercial 
+Perciformes	Caesionidae	Gymnocaesio gymnoptera	native 	Slender fusilier 	Slender fusilier 	minor commercial 	minor commercial 
+Perciformes	Lethrinidae	Gymnocranius elongatus	native 	Forktail large-eye bream 	 	minor commercial 	minor commercial 
+Perciformes	Lethrinidae	Gymnocranius frenatus	native 	Yellowsnout large-eye bream 	Tatabe 	commercial 	commercial 
+Perciformes	Lethrinidae	Gymnocranius griseus	native 	Grey large-eye bream 	Kapas-kapas laut 	commercial 	commercial 
+Perciformes	Lethrinidae	Gymnocranius microdon	native 	Blue-spotted large-eye bream 	Blue-spotted large-eye bream 	minor commercial 	minor commercial 
+Perciformes	Scombridae	Gymnosarda unicolor	native 	Dogtooth tuna 	Opu 	minor commercial 	minor commercial 
+Cypriniformes	Cyprinidae	Hampala macrolepidota	native 	Hampala barb 	Adong 	commercial 	commercial 
+Aulopiformes	Synodontidae	Harpadon nehereus	native 	Bombay-duck 	Acang-acang 	commercial 	highly commercial 
+Perciformes	Helostomatidae	Helostoma temminckii	native 	Kissing gourami 	Bawan 	commercial 	highly commercial 
+Siluriformes	Bagridae	Hemibagrus nemurus	native 	Asian redtail catfish 	Baung putih 	commercial 	commercial 
+Siluriformes	Bagridae	Hemibagrus wyckii	native 	 	Baung burai 	commercial 	commercial 
+Hexanchiformes	Hexanchidae	Heptranchias perlo	native 	Sharpnose sevengill shark 	Cucut kapukan 	minor commercial 	minor commercial 
+Clupeiformes	Clupeidae	Herklotsichthys dispilonotus	native 	Blacksaddle herring 	 	subsistence fisheries 	subsistence fisheries 
+Clupeiformes	Clupeidae	Herklotsichthys gotoi	native 	Goto's herring 	 	subsistence fisheries 	subsistence fisheries 
+Clupeiformes	Clupeidae	Herklotsichthys quadrimaculatus	native 	Bluestripe herring 	Budueng 	minor commercial 	minor commercial 
+Perciformes	Priacanthidae	Heteropriacanthus cruentatus	native 	Glasseye 	Beseh loong 	minor commercial 	minor commercial 
+Hexanchiformes	Hexanchidae	Hexanchus griseus	native 	Bluntnose sixgill shark 	Cucut meong 	minor commercial 	commercial 
+Siluriformes	Ariidae	Hexanematichthys sagor	native 	Sagor catfish 	Babukan 	commercial 	commercial 
+Clupeiformes	Clupeidae	Hilsa kelee	native 	Kelee shad 	Mata belo 	commercial 	highly commercial 
+Beloniformes	Exocoetidae	Hirundichthys oxycephalus	native 	Bony flyingfish 	 	minor commercial 	minor commercial 
+Perciformes	Pentacerotidae	Histiopterus typus	native 	Sailfin armourhead 	 	commercial 	commercial 
+Cypriniformes	Cyprinidae	Hypophthalmichthys nobilis	introduced 	Bighead carp 	 	highly commercial 	highly commercial 
+Clupeiformes	Pristigasteridae	Ilisha elongata	native 	Elongate ilisha 	Gemprang 	commercial 	highly commercial 
+Clupeiformes	Pristigasteridae	Ilisha filigera	native 	Coromandel ilisha 	Mata lebar 	subsistence fisheries 	subsistence fisheries 
+Clupeiformes	Pristigasteridae	Ilisha kampeni	native 	Kampen's ilisha 	Mata lebar 	minor commercial 	minor commercial 
+Clupeiformes	Pristigasteridae	Ilisha megaloptera	native 	Bigeye ilisha 	Belia mata 	commercial 	commercial 
+Clupeiformes	Pristigasteridae	Ilisha melastoma	native 	Indian ilisha 	Mata lebar 	minor commercial 	minor commercial 
+Clupeiformes	Pristigasteridae	Ilisha sirishai	native 	Lobejaw ilisha 	 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Istiophoridae	Istiompax indica	native 	Black marlin 	 	commercial 	commercial 
+Perciformes	Istiophoridae	Istiophorus platypterus	native 	Indo-Pacific sailfish 	Geulang pajang 	commercial 	commercial 
+Lamniformes	Lamnidae	Isurus oxyrinchus	native 	Shortfin mako 	Hiu anjing 	minor commercial 	minor commercial 
+Perciformes	Sciaenidae	Johnius amblycephalus	native 	Bearded croaker 	Gelama papan 	commercial 	minor commercial 
+Perciformes	Sciaenidae	Johnius borneensis	native 	Sharpnose hammer croaker 	 	commercial 	minor commercial 
+Perciformes	Sciaenidae	Johnius coitor	native 	Coitor croaker 	 	minor commercial 	minor commercial 
+Perciformes	Sciaenidae	Johnius macropterus	native 	Largefin croaker 	 	commercial 	commercial 
+Perciformes	Sciaenidae	Johnius trachycephalus	native 	Leaftail croaker 	 	commercial 	minor commercial 
+Perciformes	Istiophoridae	Kajikia audax	native 	Striped marlin 	 	commercial 	commercial 
+Perciformes	Leiognathidae	Karalla dussumieri	native 	Dussumier's ponyfish 	Bete-bete 	commercial 	commercial 
+Perciformes	Scombridae	Katsuwonus pelamis	native 	Skipjack tuna 	Ame-ame 	highly commercial 	highly commercial 
+Siluriformes	Siluridae	Kryptopterus bicirrhis	native 	Glass catfish 	Lais limpok 	commercial 	commercial 
+Siluriformes	Siluridae	Kryptopterus macrocephalus	native 	Striped glass catfish 	Lais 	commercial 	commercial 
+Perciformes	Kuhliidae	Kuhlia mugil	native 	Barred flagtail 	Brajanata mugil 	commercial 	minor commercial 
+Perciformes	Kuhliidae	Kuhlia rupestris	native 	Rock flagtail 	 	commercial 	commercial 
+Perciformes	Kurtidae	Kurtus indicus	native 	Indian hump head 	Cinta madu 	commercial 	minor commercial 
+Cypriniformes	Cyprinidae	Labeo chrysophekadion	native 	Black sharkminnow 	Arang arang 	commercial 	commercial 
+Perciformes	Lactariidae	Lactarius lactarius	native 	False trevally 	Ikan susu 	commercial 	commercial 
+Carcharhiniformes	Carcharhinidae	Lamiopsis temminckii	misidentification 	Broadfin shark 	Hiu bujit 	commercial 	commercial 
+Perciformes	Latidae	Lates calcarifer	native 	Barramundi 	Kakap 	commercial 	highly commercial 
+Perciformes	Leiognathidae	Leiognathus equulus	native 	Common ponyfish 	Peperek topang 	commercial 	minor commercial 
+Perciformes	Gempylidae	Lepidocybium flavobrunneum	native 	Escolar 	 	subsistence fisheries 	minor commercial 
+Cypriniformes	Cyprinidae	Leptobarbus hoevenii	native 	Hoven's carp 	Jelawat 	commercial 	commercial 
+Cypriniformes	Cyprinidae	Leptobarbus melanopterus	native 	 	Bundung 	commercial 	commercial 
+Perciformes	Scaridae	Leptoscarus vaigiensis	native 	Marbled parrotfish 	Lama 	commercial 	commercial 
+Perciformes	Trichiuridae	Lepturacanthus savala	native 	Savalai hairtail 	Cualee 	commercial 	commercial 
+Perciformes	Lethrinidae	Lethrinus amboinensis	native 	Ambon emperor 	 	minor commercial 	minor commercial 
+Perciformes	Lethrinidae	Lethrinus atkinsoni	native 	Pacific yellowtail emperor 	Kadafo pudu 	minor commercial 	minor commercial 
+Perciformes	Lethrinidae	Lethrinus conchyliatus	native 	Redaxil emperor 	 	commercial 	commercial 
+Perciformes	Lethrinidae	Lethrinus erythracanthus	native 	Orange-spotted emperor 	Orange-finned emperor 	commercial 	commercial 
+Perciformes	Lethrinidae	Lethrinus erythropterus	native 	Longfin emperor 	Ketamba 	minor commercial 	minor commercial 
+Perciformes	Lethrinidae	Lethrinus genivittatus	native 	Longspine emperor 	Kadafo rondo 	minor commercial 	minor commercial 
+Perciformes	Lethrinidae	Lethrinus harak	native 	Thumbprint emperor 	Kadafo salafau 	commercial 	commercial 
+Perciformes	Lethrinidae	Lethrinus laticaudis	native 	Grass emperor 	 	commercial 	commercial 
+Perciformes	Lethrinidae	Lethrinus lentjan	native 	Pink ear emperor 	Dara papa alo 	highly commercial 	highly commercial 
+Perciformes	Lethrinidae	Lethrinus microdon	native 	Smalltooth emperor 	Small-tooth emperor 	commercial 	commercial 
+Perciformes	Lethrinidae	Lethrinus nebulosus	native 	Spangled emperor 	Lencam 	highly commercial 	highly commercial 
+Perciformes	Lethrinidae	Lethrinus obsoletus	native 	Orange-striped emperor 	Kadafo 	minor commercial 	minor commercial 
+Perciformes	Lethrinidae	Lethrinus olivaceus	native 	Longface emperor 	Lausu 	commercial 	commercial 
+Perciformes	Lethrinidae	Lethrinus ornatus	native 	Ornate emperor 	Sikuda 	minor commercial 	minor commercial 
+Perciformes	Lethrinidae	Lethrinus reticulatus	native 	Red snout emperor 	 	minor commercial 	minor commercial 
+Perciformes	Lethrinidae	Lethrinus rubrioperculatus	native 	Spotcheek emperor 	Tari wande 	highly commercial 	highly commercial 
+Perciformes	Lethrinidae	Lethrinus semicinctus	native 	Black blotch emperor 	Kadafo rondo 	minor commercial 	minor commercial 
+Perciformes	Lethrinidae	Lethrinus variegatus	native 	Slender emperor 	Popontu 	minor commercial 	minor commercial 
+Perciformes	Lethrinidae	Lethrinus xanthochilus	native 	Yellowlip emperor 	Ikan pit 	commercial 	commercial 
+Perciformes	Lutjanidae	Lipocheilus carnolabrum	native 	Tang's snapper 	 	commercial 	commercial 
+Perciformes	Lobotidae	Lobotes surinamensis	native 	Tripletail 	Kakap bate 	commercial 	commercial 
+Carcharhiniformes	Carcharhinidae	Loxodon macrorhinus	native 	Sliteye shark 	Cucut pisang 	commercial 	commercial 
+Perciformes	Lutjanidae	Lutjanus argentimaculatus	native 	Mangrove red snapper 	Ganggrang eca 	commercial 	commercial 
+Perciformes	Lutjanidae	Lutjanus bengalensis	native 	Bengal snapper 	Bengal snapper 	commercial 	commercial 
+Perciformes	Lutjanidae	Lutjanus biguttatus	native 	Two-spot banded snapper 	Tanda-tanda pasir 	commercial 	commercial 
+Perciformes	Lutjanidae	Lutjanus bitaeniatus	native 	Indonesian snapper 	 	commercial 	commercial 
+Perciformes	Lutjanidae	Lutjanus bohar	native 	Two-spot red snapper 	Jareung gigo 	commercial 	commercial 
+Perciformes	Lutjanidae	Lutjanus boutton	native 	Moluccan snapper 	Moluccen snapper 	minor commercial 	minor commercial 
+Perciformes	Lutjanidae	Lutjanus carponotatus	native 	Spanish flag snapper 	Langsuroh alo 	subsistence fisheries 	minor commercial 
+Perciformes	Lutjanidae	Lutjanus decussatus	native 	Checkered snapper 	Alaka mata 	commercial 	commercial 
+Perciformes	Lutjanidae	Lutjanus dodecacanthoides	native 	Sunbeam snapper 	 	minor commercial 	minor commercial 
+Perciformes	Lutjanidae	Lutjanus ehrenbergii	native 	Blackspot snapper 	Baba banku 	minor commercial 	minor commercial 
+Perciformes	Lutjanidae	Lutjanus erythropterus	native 	Crimson snapper 	Bambangan 	commercial 	commercial 
+Perciformes	Lutjanidae	Lutjanus fulviflamma	native 	Dory snapper 	Ikan tanda 	commercial 	commercial 
+Perciformes	Lutjanidae	Lutjanus fulvus	native 	Blacktail snapper 	Tambak 	commercial 	commercial 
+Perciformes	Lutjanidae	Lutjanus gibbus	native 	Humpback red snapper 	Jenaha 	commercial 	commercial 
+Perciformes	Lutjanidae	Lutjanus johnii	native 	John's snapper 	Tambangan 	commercial 	commercial 
+Perciformes	Lutjanidae	Lutjanus kasmira	native 	Common bluestripe snapper 	Gorara tikus 	commercial 	commercial 
+Perciformes	Lutjanidae	Lutjanus lemniscatus	native 	Yellowstreaked snapper 	Cablikan 	commercial 	commercial 
+Perciformes	Lutjanidae	Lutjanus lunulatus	native 	Lunartail snapper 	Tutong iku 	minor commercial 	minor commercial 
+Perciformes	Lutjanidae	Lutjanus lutjanus	native 	Bigeye snapper 	Gorara gigi anjing 	highly commercial 	highly commercial 
+Perciformes	Lutjanidae	Lutjanus madras	native 	Indian snapper 	Indian snapper 	commercial 	commercial 
+Perciformes	Lutjanidae	Lutjanus malabaricus	native 	Malabar blood snapper 	Ine 	highly commercial 	highly commercial 
+Perciformes	Lutjanidae	Lutjanus mizenkoi	native 	Samoan snapper 	Golden snapper 	minor commercial 	minor commercial 
+Perciformes	Lutjanidae	Lutjanus monostigma	native 	One-spot snapper 	Kelalah 	commercial 	commercial 
+Perciformes	Lutjanidae	Lutjanus quinquelineatus	native 	Five-lined snapper 	Sala 	commercial 	commercial 
+Perciformes	Lutjanidae	Lutjanus rivulatus	native 	Blubberlip snapper 	Gaga 	commercial 	commercial 
+Perciformes	Lutjanidae	Lutjanus russellii	native 	Russell's snapper 	Aba 	commercial 	commercial 
+Perciformes	Lutjanidae	Lutjanus sebae	native 	Emperor red snapper 	Bambangan 	commercial 	commercial 
+Perciformes	Lutjanidae	Lutjanus semicinctus	native 	Black-banded snapper 	Half-barred snapper 	minor commercial 	minor commercial 
+Perciformes	Lutjanidae	Lutjanus timoriensis	native 	Timor snapper 	Timor snapper 	minor commercial 	minor commercial 
+Perciformes	Lutjanidae	Lutjanus vitta	native 	Brownstripe red snapper 	Mala 	commercial 	commercial 
+Perciformes	Lutjanidae	Macolor macularis	native 	Midnight snapper 	Sulai asau 	commercial 	commercial 
+Perciformes	Lutjanidae	Macolor niger	native 	Black and white snapper 	Kompele terbang 	commercial 	commercial 
+Cypriniformes	Cyprinidae	Macrochirichthys macrochirus	native 	Long pectoral-fin minnow 	Abang 	commercial 	commercial 
+Synbranchiformes	Mastacembelidae	Macrognathus zebrinus	questionable 	Zebra spiny eel 	 	minor commercial 	minor commercial 
+Perciformes	Istiophoridae	Makaira mazara	native 	Indo-Pacific blue marlin 	 	commercial 	commercial 
+Gadiformes	Macrouridae	Malacocephalus laevis	native 	Softhead grenadier 	 	minor commercial 	minor commercial 
+Atheriniformes	Telmatherinidae	Marosatherina ladigesi	endemic 	Celebes rainbowfish 	 	commercial 	of no interest 
+Stomiiformes	Sternoptychidae	Maurolicus muelleri	native 	Silvery lightfish 	 	commercial 	minor commercial 
+Perciformes	Carangidae	Megalaspis cordyla	native 	Torpedo scad 	Aolan 	commercial 	highly commercial 
+Elopiformes	Megalopidae	Megalops cyprinoides	native 	Indo-Pacific tarpon 	Bulan-bulan 	minor commercial 	minor commercial 
+Perciformes	Menidae	Mene maculata	native 	Moonfish 	Kekek jawa 	commercial 	commercial 
+Scorpaeniformes	Synanceiidae	Minous monodactylus	native 	Grey stingfish 	 	minor commercial 	minor commercial 
+Tetraodontiformes	Molidae	Mola mola	native 	Ocean sunfish 	Ocean sunfish 	minor commercial 	minor commercial 
+Synbranchiformes	Synbranchidae	Monopterus albus	native 	Asian swamp eel 	Belut 	minor commercial 	commercial 
+Perciformes	Lethrinidae	Monotaxis grandoculis	native 	Humpnose big-eye bream 	Bagangan 	commercial 	commercial 
+Perciformes	Mullidae	Mulloidichthys flavolineatus	native 	Yellowstripe goatfish 	Banguntu janggutan tuba 	commercial 	commercial 
+Anguilliformes	Muraenesocidae	Muraenesox bagio	native 	Common pike conger 	 	commercial 	commercial 
+Anguilliformes	Muraenesocidae	Muraenesox cinereus	native 	Daggertooth pike conger 	Pucuk nipah 	commercial 	highly commercial 
+Siluriformes	Bagridae	Mystus gulio	native 	Long whiskers catfish 	Lundu 	commercial 	commercial 
+Siluriformes	Bagridae	Mystus nigriceps	native 	Twospot catfish 	 	commercial 	commercial 
+Perciformes	Acanthuridae	Naso hexacanthus	native 	Sleek unicornfish 	Kumai belowis 	commercial 	commercial 
+Perciformes	Carangidae	Naucrates ductor	native 	Pilotfish 	 	minor commercial 	minor commercial 
+Orectolobiformes	Ginglymostomatidae	Nebrius ferrugineus	native 	Tawny nurse shark 	Cucut buta 	commercial 	commercial 
+Carcharhiniformes	Carcharhinidae	Negaprion acutidens	native 	Sicklefin lemon shark 	Lemon shark 	commercial 	commercial 
+Siluriformes	Ariidae	Nemapteryx caelata	native 	Engraved catfish 	Duri kerak 	commercial 	commercial 
+Clupeiformes	Clupeidae	Nematalosa come	native 	Western Pacific gizzard shad 	 	subsistence fisheries 	subsistence fisheries 
+Clupeiformes	Clupeidae	Nematalosa erebi	native 	Australian river gizzard shad 	 	subsistence fisheries 	commercial 
+Perciformes	Nemipteridae	Nemipterus balinensis	endemic 	Balinese threadfin bream 	Lankiaba 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Nemipteridae	Nemipterus balinensoides	native 	Dwarf threadfin bream 	Dwarf threadfin 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Nemipteridae	Nemipterus bathybius	native 	Yellowbelly threadfin bream 	 	commercial 	commercial 
+Perciformes	Nemipteridae	Nemipterus bipunctatus	native 	Delagoa threadfin bream 	 	minor commercial 	minor commercial 
+Perciformes	Nemipteridae	Nemipterus celebicus	native 	Celebes threadfin bream 	Cuih 	minor commercial 	minor commercial 
+Perciformes	Nemipteridae	Nemipterus furcosus	native 	Fork-tailed threadfin bream 	Gurisi 	commercial 	commercial 
+Perciformes	Nemipteridae	Nemipterus gracilis	endemic 	Graceful threadfin bream 	Juka eja 	minor commercial 	minor commercial 
+Perciformes	Nemipteridae	Nemipterus hexodon	native 	Ornate threadfin bream 	Kambayan 	minor commercial 	minor commercial 
+Perciformes	Nemipteridae	Nemipterus isacanthus	native 	Teardrop threadfin bream 	 	minor commercial 	minor commercial 
+Perciformes	Nemipteridae	Nemipterus japonicus	native 	Japanese threadfin bream 	Gurisi 	commercial 	commercial 
+Perciformes	Nemipteridae	Nemipterus marginatus	native 	Red filament threadfin bream 	 	minor commercial 	minor commercial 
+Perciformes	Nemipteridae	Nemipterus mesoprion	native 	Mauvelip threadfin bream 	 	minor commercial 	minor commercial 
+Perciformes	Nemipteridae	Nemipterus nematophorus	native 	Doublewhip threadfin bream 	 	minor commercial 	minor commercial 
+Perciformes	Nemipteridae	Nemipterus nematopus	native 	Yellow-tipped threadfin bream 	 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Nemipteridae	Nemipterus nemurus	native 	Redspine threadfin bream 	 	minor commercial 	minor commercial 
+Perciformes	Nemipteridae	Nemipterus peronii	native 	Notchedfin threadfin bream 	Cuih 	minor commercial 	commercial 
+Perciformes	Nemipteridae	Nemipterus tambuloides	native 	Fivelined threadfin bream 	Gurisi 	commercial 	commercial 
+Perciformes	Nemipteridae	Nemipterus thosaporni	native 	Palefin threadfin bream 	 	minor commercial 	minor commercial 
+Perciformes	Nemipteridae	Nemipterus virgatus	native 	Golden threadfin bream 	 	commercial 	commercial 
+Perciformes	Nemipteridae	Nemipterus zysron	native 	Slender threadfin bream 	Cuih 	minor commercial 	minor commercial 
+Perciformes	Gempylidae	Neoepinnula orientalis	native 	Sackfish 	 	subsistence fisheries 	subsistence fisheries 
+Siluriformes	Ariidae	Netuma thalassina	native 	Giant catfish 	Jahan 	commercial 	commercial 
+Osteoglossiformes	Notopteridae	Notopterus notopterus	native 	Bronze featherback 	Kapirat 	commercial 	commercial 
+Perciformes	Leiognathidae	Nuchequula blochii	misidentification 	Twoblotch ponyfish 	 	commercial 	commercial 
+Clupeiformes	Pristigasteridae	Opisthopterus tardoore	native 	Tardoore 	 	minor commercial 	minor commercial 
+Clupeiformes	Pristigasteridae	Opisthopterus valenciennesi	native 	Slender tardoor 	 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Cichlidae	Oreochromis mossambicus	introduced 	Mozambique tilapia 	Jahir 	commercial 	highly commercial 
+Perciformes	Cichlidae	Oreochromis niloticus	introduced 	Nile tilapia 	Nila 	commercial 	highly commercial 
+Perciformes	Osphronemidae	Osphronemus goramy	native 	Giant gourami 	Gurami 	commercial 	commercial 
+Cypriniformes	Cyprinidae	Osteochilus melanopleurus	native 	 	Aro 	commercial 	commercial 
+Cypriniformes	Cyprinidae	Osteochilus vittatus	native 	Bonylip barb 	Asah-asah 	minor commercial 	highly commercial 
+Siluriformes	Ariidae	Osteogeneiosus militaris	native 	Soldier catfish 	Songop 	commercial 	commercial 
+Mugiliformes	Mugilidae	Osteomugil cunnesius	native 	Longarm mullet 	Belanak kodok 	commercial 	commercial 
+Perciformes	Apogonidae	Ostorhinchus semilineatus	native 	Half-lined cardinal 	Half-lined cardinal 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Sciaenidae	Otolithes ruber	native 	Tigertooth croaker 	Gelik 	commercial 	commercial 
+Perciformes	Sciaenidae	Otolithoides biauritus	native 	Bronze croaker 	Pecah piring 	minor commercial 	minor commercial 
+Perciformes	Cepolidae	Owstonia totomiensis	misidentification 	Short-tail bandfish 	 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Labridae	Oxycheilinus bimaculatus	native 	Two-spot wrasse 	Little maori wrasse 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Eleotridae	Oxyeleotris marmorata	native 	Marble goby 	Bakut 	commercial 	commercial 
+Perciformes	Stromateidae	Pampus argenteus	native 	Silver pomfret 	Bawai puteh 	commercial 	highly commercial 
+Perciformes	Stromateidae	Pampus chinensis	native 	Chinese silver pomfret 	 	minor commercial 	minor commercial 
+Siluriformes	Pangasiidae	Pangasius kunyit	native 	 	Kunyit 	commercial 	commercial 
+Siluriformes	Pangasiidae	Pangasius nasutus	native 	 	Patin 	commercial 	commercial 
+Siluriformes	Pangasiidae	Pangasius pangasius	questionable 	Pangas catfish 	Jambal 	commercial 	commercial 
+Perciformes	Sciaenidae	Panna microdon	native 	Panna croaker 	Gelamah 	minor commercial 	minor commercial 
+Perciformes	Carangidae	Pantolabus radiatus	native 	Fringefin trevally 	 	minor commercial 	minor commercial 
+Tetraodontiformes	Tetraodontidae	Pao palembangensis	native 	 	Buntal 	subsistence fisheries 	minor commercial 
+Perciformes	Lutjanidae	Paracaesio kusakarii	native 	Saddle-back snapper 	 	minor commercial 	minor commercial 
+Perciformes	Lutjanidae	Paracaesio sordida	native 	Dirty ordure snapper 	Fusilier snapper 	commercial 	commercial 
+Perciformes	Lutjanidae	Paracaesio xanthura	native 	Yellowtail blue snapper 	False fusilier 	commercial 	commercial 
+Cypriniformes	Cyprinidae	Parachela oxygastroides	native 	Glass fish 	Entebuloh 	commercial 	commercial 
+Perciformes	Nemipteridae	Parascolopsis eriomma	native 	Rosy dwarf monocle bream 	Collared monocle bream 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Nemipteridae	Parascolopsis inermis	native 	Unarmed dwarf monocle bream 	Banded monocle bream 	minor commercial 	minor commercial 
+Perciformes	Nemipteridae	Parascolopsis tanyactis	native 	Long-rayed dwarf monocle bream 	 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Nemipteridae	Parascolopsis tosensis	native 	Tosa dwarf monocle bream 	 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Carangidae	Parastromateus niger	native 	Black pomfret 	Bawai itam 	commercial 	highly commercial 
+Perciformes	Mullidae	Parupeneus barberinoides	native 	Bicolor goatfish 	Timbungan igabuku 	commercial 	commercial 
+Perciformes	Mullidae	Parupeneus barberinus	native 	Dash-and-dot goatfish 	Biji nangka karang 	commercial 	commercial 
+Perciformes	Mullidae	Parupeneus cyclostomus	native 	Gold-saddle goatfish 	Ciko-ciko 	commercial 	commercial 
+Perciformes	Mullidae	Parupeneus heptacanthus	native 	Cinnabar goatfish 	Timbungan igabuku 	commercial 	commercial 
+Perciformes	Mullidae	Parupeneus indicus	native 	Indian goatfish 	Biji nangka karang 	commercial 	commercial 
+Perciformes	Mullidae	Parupeneus multifasciatus	native 	Manybar goatfish 	Timbungan tubba 	commercial 	commercial 
+Perciformes	Mullidae	Parupeneus pleurostigma	native 	Sidespot goatfish 	Timbungan 	minor commercial 	minor commercial 
+Perciformes	Mullidae	Parupeneus trifasciatus	native 	Doublebar goatfish 	Gantup mirah 	commercial 	commercial 
+Myliobatiformes	Dasyatidae	Pastinachus sephen	native 	Cowtail stingray 	Pari ayam 	minor commercial 	minor commercial 
+Myliobatiformes	Dasyatidae	Pateobatis bleekeri	native 	Bleeker's whipray 	 	commercial 	commercial 
+Myliobatiformes	Dasyatidae	Pateobatis jenkinsii	native 	Jenkins whipray 	Pari aer 	commercial 	commercial 
+Perciformes	Terapontidae	Pelates quadrilineatus	native 	Fourlined terapon 	Anak radja bau 	minor commercial 	minor commercial 
+Clupeiformes	Pristigasteridae	Pellona ditchela	native 	Indian pellona 	Dero 	commercial 	commercial 
+Perciformes	Nemipteridae	Pentapodus bifasciatus	native 	White-shouldered whiptail 	White-ear whiptail 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Nemipteridae	Pentapodus caninus	native 	Small-toothed whiptail 	Gurisi 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Nemipteridae	Pentapodus emeryii	native 	Double whiptail 	Blue whiptail 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Nemipteridae	Pentapodus nagasakiensis	native 	Japanese whiptail 	Japanese whiptail 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Nemipteridae	Pentapodus porosus	native 	Northwest Australian whiptail 	 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Nemipteridae	Pentapodus setosus	native 	Butterfly whiptail 	Empase 	minor commercial 	minor commercial 
+Perciformes	Nemipteridae	Pentapodus trivittatus	native 	Three-striped whiptail 	Krisi 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Lutjanidae	Pinjalo pinjalo	native 	Pinjalo 	Penyalo 	minor commercial 	minor commercial 
+Anguilliformes	Ophichthidae	Pisodonophis boro	native 	Rice-paddy eel 	Tonang 	minor commercial 	minor commercial 
+Anguilliformes	Ophichthidae	Pisodonophis cancrivorus	native 	Longfin snake-eel 	Estuary snake eel 	minor commercial 	minor commercial 
+Mugiliformes	Mugilidae	Planiliza subviridis	native 	Greenback mullet 	Bale balana 	minor commercial 	commercial 
+Perciformes	Ephippidae	Platax teira	native 	Longfin batfish 	Platax jenggot 	commercial 	minor commercial 
+Scorpaeniformes	Platycephalidae	Platycephalus indicus	native 	Bartail flathead 	Ikan anjing 	commercial 	commercial 
+Perciformes	Haemulidae	Plectorhinchus flavomaculatus	native 	Lemonfish 	Gold-spotted sweetlips 	commercial 	commercial 
+Perciformes	Haemulidae	Plectorhinchus picus	native 	Painted sweetlip 	Macanan 	commercial 	commercial 
+Perciformes	Serranidae	Plectropomus areolatus	native 	Squaretail coralgrouper 	Sunu kasar 	minor commercial 	minor commercial 
+Perciformes	Serranidae	Plectropomus laevis	native 	Blacksaddled coralgrouper 	Okke makuri 	commercial 	commercial 
+Perciformes	Serranidae	Plectropomus leopardus	native 	Leopard coralgrouper 	Kerapu sunu 	commercial 	commercial 
+Perciformes	Serranidae	Plectropomus maculatus	native 	Spotted coralgrouper 	Kerapu lodi 	commercial 	commercial 
+Perciformes	Serranidae	Plectropomus oligacanthus	native 	Highfin coralgrouper 	Kerapu ladah 	minor commercial 	minor commercial 
+Perciformes	Serranidae	Plectropomus pessuliferus	native 	Roving coralgrouper 	Violet coral trout 	commercial 	commercial 
+Perciformes	Serranidae	Plectropomus punctatus	questionable 	Marbled coralgrouper 	 	commercial 	commercial 
+Siluriformes	Ariidae	Plicofollis tonggol	native 	Roughback sea catfish 	Manyung utik 	commercial 	commercial 
+Siluriformes	Plotosidae	Plotosus canius	native 	Gray eel-catfish 	Sembilang 	commercial 	commercial 
+Siluriformes	Plotosidae	Plotosus lineatus	native 	Striped eel catfish 	Sembilang karang 	subsistence fisheries 	commercial 
+Perciformes	Polynemidae	Polydactylus sextarius	native 	Blackspot threadfin 	 	commercial 	commercial 
+Perciformes	Pomacanthidae	Pomacanthus xanthometopon	native 	Yellowface angelfish 	Blue-face angelfish 	commercial 	commercial 
+Perciformes	Pomacentridae	Pomacentrus lepidogenys	native 	Scaly damsel 	Scaly damsel 	highly commercial 	highly commercial 
+Perciformes	Haemulidae	Pomadasys argenteus	native 	Silver grunt 	Fine-spotted grunter-bream 	commercial 	commercial 
+Perciformes	Haemulidae	Pomadasys furcatus	native 	Banded grunter 	Kerot-kerot 	minor commercial 	commercial 
+Perciformes	Haemulidae	Pomadasys maculatus	native 	Saddle grunt 	Gerot-gerot 	commercial 	commercial 
+Perciformes	Priacanthidae	Priacanthus hamrur	native 	Moontail bullseye 	Gora suangi 	minor commercial 	minor commercial 
+Perciformes	Priacanthidae	Priacanthus macracanthus	native 	Red bigeye 	Broek abah 	commercial 	commercial 
+Perciformes	Priacanthidae	Priacanthus sagittarius	native 	Arrow bulleye 	Brok abah 	minor commercial 	minor commercial 
+Perciformes	Priacanthidae	Priacanthus tayenus	native 	Purple-spotted bigeye 	Serinding tembakau 	minor commercial 	minor commercial 
+Carcharhiniformes	Carcharhinidae	Prionace glauca	native 	Blue shark 	Cucut selendang 	minor commercial 	minor commercial 
+Perciformes	Lutjanidae	Pristipomoides argyrogrammicus	native 	Ornate jobfish 	 	minor commercial 	minor commercial 
+Perciformes	Lutjanidae	Pristipomoides auricilla	native 	Goldflag jobfish 	Bero babi igabuku 	commercial 	commercial 
+Perciformes	Lutjanidae	Pristipomoides filamentosus	native 	Crimson jobfish 	Bero babi 	highly commercial 	highly commercial 
+Perciformes	Lutjanidae	Pristipomoides flavipinnis	native 	Golden eye jobfish 	Bero babi alo 	highly commercial 	highly commercial 
+Perciformes	Lutjanidae	Pristipomoides multidens	native 	Goldbanded jobfish 	 	commercial 	commercial 
+Perciformes	Lutjanidae	Pristipomoides sieboldii	native 	Lavender jobfish 	 	commercial 	commercial 
+Perciformes	Lutjanidae	Pristipomoides typus	native 	Sharptooth jobfish 	 	minor commercial 	minor commercial 
+Perciformes	Lutjanidae	Pristipomoides zonatus	native 	Oblique-banded snapper 	Bero babi terusang 	commercial 	commercial 
+Rhinopristiformes	Pristidae	Pristis microdon	native 	Largetooth sawfish 	Cucut gergaji 	commercial 	minor commercial 
+Rhinopristiformes	Pristidae	Pristis zijsron	native 	Longcomb sawfish 	 	commercial 	commercial 
+Perciformes	Pristolepididae	Pristolepis fasciata	native 	Malayan leaffish 	Empatung 	minor commercial 	minor commercial 
+Perciformes	Pomacentridae	Pristotis obtusirostris	native 	Gulf damselfish 	Roaming damsel 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Gempylidae	Promethichthys prometheus	native 	Roudi escolar 	 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Sciaenidae	Protonibea diacanthus	native 	Blackspotted croaker 	Samgeh belang 	minor commercial 	minor commercial 
+Perciformes	Nomeidae	Psenes pellucidus	native 	Bluefin driftfish 	 	commercial 	commercial 
+Pleuronectiformes	Psettodidae	Psettodes erumei	native 	Indian halibut 	Beteh 	minor commercial 	commercial 
+Pleuronectiformes	Paralichthyidae	Pseudorhombus arsius	native 	Largetooth flounder 	Engkod siblah 	commercial 	commercial 
+Pleuronectiformes	Paralichthyidae	Pseudorhombus elevatus	native 	Deep flounder 	 	subsistence fisheries 	commercial 
+Pleuronectiformes	Paralichthyidae	Pseudorhombus malayanus	native 	Malayan flounder 	 	commercial 	commercial 
+Pleuronectiformes	Paralichthyidae	Pseudorhombus pentophthalmus	native 	Fivespot flounder 	 	commercial 	commercial 
+Pleuronectiformes	Paralichthyidae	Pseudorhombus triocellatus	native 	Three spotted flounders 	 	commercial 	commercial 
+Tetraodontiformes	Triacanthidae	Pseudotriacanthus strigilifer	native 	Long-spined tripodfish 	Golden triplespine 	minor commercial 	minor commercial 
+Perciformes	Caesionidae	Pterocaesio chrysozona	native 	Goldband fusilier 	Pisang-pisang 	commercial 	commercial 
+Perciformes	Caesionidae	Pterocaesio digramma	native 	Double-lined fusilier 	Pisang pisang 	commercial 	commercial 
+Perciformes	Caesionidae	Pterocaesio marri	native 	Marr's fusilier 	Big-tail fusilier 	minor commercial 	minor commercial 
+Perciformes	Caesionidae	Pterocaesio pisang	native 	Banana fusilier 	Pisang-pisang 	commercial 	commercial 
+Perciformes	Caesionidae	Pterocaesio randalli	native 	Randall's fusilier 	Yellow-dash fusilier 	minor commercial 	minor commercial 
+Perciformes	Caesionidae	Pterocaesio tessellata	native 	One-stripe fusilier 	Pin-stripe fusilier 	commercial 	commercial 
+Perciformes	Caesionidae	Pterocaesio tile	native 	Dark-banded fusilier 	Andou meha 	commercial 	commercial 
+Perciformes	Caesionidae	Pterocaesio trilineata	native 	Three-stripe fusilier 	Striped fusilier 	subsistence fisheries 	subsistence fisheries 
+Scorpaeniformes	Scorpaenidae	Pterois mombasae	native 	Frillfin turkeyfish 	African lionfish 	minor commercial 	minor commercial 
+Scorpaeniformes	Scorpaenidae	Pterois russelii	native 	Plaintail turkeyfish 	Lepu ayam 	minor commercial 	minor commercial 
+Scorpaeniformes	Scorpaenidae	Pterois volitans	native 	Red lionfish 	Lepu-penganten 	commercial 	commercial 
+Perciformes	Sciaenidae	Pterotolithus lateoides	native 	Bigmouth croaker 	jaranggigi 	commercial 	minor commercial 
+Perciformes	Sciaenidae	Pterotolithus maculatus	native 	Blotched tiger-toothed croaker 	Tetet 	commercial 	minor commercial 
+Cypriniformes	Cyprinidae	Puntioplites bulu	native 	 	Bulu-bulu 	commercial 	commercial 
+Perciformes	Rachycentridae	Rachycentron canadum	native 	Cobia 	Badee 	commercial 	minor commercial 
+Clupeiformes	Pristigasteridae	Raconda russeliana	native 	Raconda 	 	minor commercial 	minor commercial 
+Perciformes	Scombridae	Rastrelliger brachysoma	native 	Short mackerel 	Kembung perempuan 	commercial 	highly commercial 
+Perciformes	Scombridae	Rastrelliger faughni	native 	Island mackerel 	Kembung 	commercial 	commercial 
+Perciformes	Scombridae	Rastrelliger kanagurta	native 	Indian mackerel 	Banjar 	highly commercial 	highly commercial 
+Perciformes	Gempylidae	Rexea prometheoides	native 	Royal escolar 	 	commercial 	commercial 
+Perciformes	Sparidae	Rhabdosargus sarba	native 	Goldlined seabream 	 	commercial 	commercial 
+Rhinopristiformes	Rhinidae	Rhina ancylostoma	native 	Bowmouth guitarfish 	Hiu barong 	commercial 	commercial 
+Orectolobiformes	Rhincodontidae	Rhincodon typus	native 	Whale shark 	Hiu paus 	minor commercial 	commercial 
+Carcharhiniformes	Carcharhinidae	Rhizoprionodon acutus	native 	Milk shark 	Hiu pilus 	commercial 	commercial 
+Carcharhiniformes	Carcharhinidae	Rhizoprionodon oligolinx	native 	Grey sharpnose shark 	Hiu pilus 	commercial 	commercial 
+Perciformes	Gempylidae	Ruvettus pretiosus	native 	Oilfish 	 	subsistence fisheries 	minor commercial 
+Perciformes	Scombridae	Sarda orientalis	native 	Striped bonito 	 	minor commercial 	minor commercial 
+Clupeiformes	Clupeidae	Sardinella albella	native 	White sardinella 	Bulan 	commercial 	commercial 
+Clupeiformes	Clupeidae	Sardinella atricauda	native 	Bleeker's blacktip sardinella 	Ekor hangus 	minor commercial 	minor commercial 
+Clupeiformes	Clupeidae	Sardinella brachysoma	native 	Deepbody sardinella 	Tembang perempuan 	minor commercial 	minor commercial 
+Clupeiformes	Clupeidae	Sardinella gibbosa	native 	Goldstripe sardinella 	Tembang 	highly commercial 	highly commercial 
+Clupeiformes	Clupeidae	Sardinella lemuru	native 	Bali sardinella 	Lemuru 	commercial 	highly commercial 
+Clupeiformes	Clupeidae	Sardinella melanura	native 	Blacktip sardinella 	 	minor commercial 	minor commercial 
+Aulopiformes	Synodontidae	Saurida nebulosa	native 	Clouded lizardfish 	Blotched grinner 	subsistence fisheries 	commercial 
+Aulopiformes	Synodontidae	Saurida tumbil	native 	Greater lizardfish 	Buntut kerbo 	commercial 	commercial 
+Aulopiformes	Synodontidae	Saurida undosquamis	native 	Brushtooth lizardfish 	Large-scale grinner 	minor commercial 	minor commercial 
+Perciformes	Scaridae	Scarus ghobban	native 	Blue-barred parrotfish 	Kakatua biru 	commercial 	commercial 
+Perciformes	Scatophagidae	Scatophagus argus	native 	Spotted scat 	Bidang 	minor commercial 	minor commercial 
+Osteoglossiformes	Osteoglossidae	Scleropages formosus	native 	Asian bonytongue 	Ikan siluk 	commercial 	commercial 
+Carcharhiniformes	Carcharhinidae	Scoliodon laticaudus	native 	Spadenose shark 	Hiu kejen 	commercial 	commercial 
+Perciformes	Nemipteridae	Scolopsis affinis	native 	Peters' monocle bream 	Yellow-tail spinecheek 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Nemipteridae	Scolopsis aurata	native 	Yellowstripe monocle bream 	Pasir-pasir 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Nemipteridae	Scolopsis bilineata	native 	Two-lined monocle bream 	Aoloumang 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Nemipteridae	Scolopsis ciliata	native 	Saw-jawed monocle bream 	Ija putilo ote 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Nemipteridae	Scolopsis lineata	native 	Striped monocle bream 	Pasir-pasir 	subsistence fisheries 	minor commercial 
+Perciformes	Nemipteridae	Scolopsis margaritifera	native 	Pearly monocle bream 	Sero malam 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Nemipteridae	Scolopsis monogramma	native 	Monogrammed monocle bream 	Pasir-pasir 	minor commercial 	minor commercial 
+Perciformes	Nemipteridae	Scolopsis taenioptera	native 	Lattice monocle bream 	Pasir-pasir 	commercial 	commercial 
+Perciformes	Nemipteridae	Scolopsis temporalis	native 	Bald-spot monocle bream 	Bald-spot spinecheek 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Nemipteridae	Scolopsis trilineata	native 	Three-lined monocle bream 	Pasir-pasir 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Nemipteridae	Scolopsis vosmeri	native 	Whitecheek monocle bream 	Pasir pasir 	subsistence fisheries 	commercial 
+Perciformes	Nemipteridae	Scolopsis xenochrous	native 	Oblique-barred monocle bream 	Blue-stripe spinecheek 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Scombridae	Scomber australasicus	native 	Blue mackerel 	 	commercial 	commercial 
+Perciformes	Carangidae	Scomberoides commersonnianus	native 	Talang queenfish 	Giant queenfish 	minor commercial 	minor commercial 
+Perciformes	Carangidae	Scomberoides lysan	native 	Doublespotted queenfish 	Lima jari 	minor commercial 	minor commercial 
+Perciformes	Carangidae	Scomberoides tala	native 	Barred queenfish 	Talang-talang 	minor commercial 	minor commercial 
+Perciformes	Carangidae	Scomberoides tol	native 	Needlescaled queenfish 	Talang-talang 	minor commercial 	minor commercial 
+Perciformes	Scombridae	Scomberomorus commerson	native 	Narrow-barred Spanish mackerel 	Tangiro 	highly commercial 	highly commercial 
+Perciformes	Scombridae	Scomberomorus guttatus	native 	Indo-Pacific king mackerel 	Ajong ajong 	commercial 	highly commercial 
+Perciformes	Scombridae	Scomberomorus koreanus	native 	Korean seerfish 	 	minor commercial 	minor commercial 
+Perciformes	Scombridae	Scomberomorus lineolatus	native 	Streaked seerfish 	Sanji-sanji 	commercial 	commercial 
+Perciformes	Carangidae	Selar boops	native 	Oxeye scad 	Angora 	commercial 	commercial 
+Perciformes	Carangidae	Selar crumenophthalmus	native 	Bigeye scad 	Selar bentong 	commercial 	highly commercial 
+Perciformes	Carangidae	Selaroides leptolepis	native 	Yellowstripe scad 	Aela 	commercial 	commercial 
+Perciformes	Carangidae	Seriola dumerili	native 	Greater amberjack 	 	minor commercial 	minor commercial 
+Perciformes	Carangidae	Seriola rivoliana	native 	Longfin yellowtail 	Longfin kingfish 	commercial 	commercial 
+Perciformes	Carangidae	Seriolina nigrofasciata	native 	Blackbanded trevally 	Black-banded kingfish 	minor commercial 	minor commercial 
+Scorpaeniformes	Setarchidae	Setarches guentheri	native 	Channeled rockfish 	 	commercial 	minor commercial 
+Clupeiformes	Engraulidae	Setipinna melanochir	native 	Dusky-hairfin anchovy 	Kempit 	subsistence fisheries 	subsistence fisheries 
+Clupeiformes	Engraulidae	Setipinna taty	native 	Scaly hairfin anchovy 	Galeberan 	minor commercial 	minor commercial 
+Clupeiformes	Engraulidae	Setipinna tenuifilis	native 	Common hairfin anchovy 	 	minor commercial 	minor commercial 
+Perciformes	Siganidae	Siganus argenteus	native 	Streamlined spinefoot 	Belowis silah 	commercial 	commercial 
+Perciformes	Siganidae	Siganus canaliculatus	native 	White-spotted spinefoot 	Bala uwes 	commercial 	commercial 
+Perciformes	Siganidae	Siganus corallinus	native 	Blue-spotted spinefoot 	Indian coral rabbitfish 	commercial 	commercial 
+Perciformes	Siganidae	Siganus fuscescens	native 	Mottled spinefoot 	Madar 	commercial 	commercial 
+Perciformes	Siganidae	Siganus guttatus	native 	Orange-spotted spinefoot 	Mulia asu 	commercial 	commercial 
+Perciformes	Siganidae	Siganus javus	native 	Streaked spinefoot 	Beronang 	commercial 	commercial 
+Perciformes	Siganidae	Siganus lineatus	native 	Golden-lined spinefoot 	Masadar karang 	commercial 	commercial 
+Perciformes	Siganidae	Siganus puellus	native 	Masked spinefoot 	Borona makuri 	commercial 	minor commercial 
+Perciformes	Siganidae	Siganus punctatus	native 	Goldspotted spinefoot 	Ikan baronang 	commercial 	commercial 
+Perciformes	Siganidae	Siganus spinus	native 	Little spinefoot 	Belowis kangkang 	minor commercial 	minor commercial 
+Perciformes	Siganidae	Siganus vermiculatus	native 	Vermiculated spinefoot 	Beronang tulis 	minor commercial 	commercial 
+Perciformes	Siganidae	Siganus virgatus	native 	Barhead spinefoot 	Samadar palsu 	minor commercial 	minor commercial 
+Perciformes	Siganidae	Siganus vulpinus	native 	Foxface 	Samadar cecet 	minor commercial 	minor commercial 
+Perciformes	Sillaginidae	Sillaginopodys chondropus	native 	Clubfoot sillago 	Besot 	commercial 	commercial 
+Perciformes	Sillaginidae	Sillaginops macrolepis	native 	Large-scale sillago 	Besot 	minor commercial 	minor commercial 
+Perciformes	Sillaginidae	Sillaginopsis panijus	native 	Flathead sillago 	 	commercial 	commercial 
+Perciformes	Sillaginidae	Sillago aeolus	native 	Oriental sillago 	 	minor commercial 	minor commercial 
+Perciformes	Sillaginidae	Sillago burrus	native 	Western trumpeter sillago 	 	minor commercial 	minor commercial 
+Perciformes	Sillaginidae	Sillago sihama	native 	Silver sillago 	Besot 	commercial 	commercial 
+Tetraodontiformes	Tetraodontidae	Sphoeroides pachygaster	native 	Blunthead puffer 	 	commercial 	commercial 
+Perciformes	Sphyraenidae	Sphyraena barracuda	native 	Great barracuda 	Alu-alu 	minor commercial 	minor commercial 
+Perciformes	Sphyraenidae	Sphyraena forsteri	native 	Bigeye barracuda 	Alu-alu 	commercial 	commercial 
+Perciformes	Sphyraenidae	Sphyraena jello	native 	Pickhandle barracuda 	Alu-alu 	commercial 	commercial 
+Perciformes	Sphyraenidae	Sphyraena obtusata	native 	Obtuse barracuda 	Kucul 	commercial 	commercial 
+Perciformes	Sphyraenidae	Sphyraena putnamae	native 	Sawtooth barracuda 	 	commercial 	commercial 
+Carcharhiniformes	Sphyrnidae	Sphyrna lewini	native 	Scalloped hammerhead 	Hiu bingkoh 	commercial 	commercial 
+Clupeiformes	Clupeidae	Spratelloides delicatulus	native 	Delicate round herring 	Kasan 	minor commercial 	minor commercial 
+Clupeiformes	Clupeidae	Spratelloides gracilis	native 	Silver-stripe round herring 	Bileh 	minor commercial 	minor commercial 
+Clupeiformes	Clupeidae	Spratelloides lewisi	native 	Lewis' round herring 	 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Pomacentridae	Stegastes fasciolatus	native 	Pacific gregory 	Pacific gregory 	minor commercial 	minor commercial 
+Atheriniformes	Atherinidae	Stenatherina panatela	native 	Panatella silverside 	 	minor commercial 	minor commercial 
+Perciformes	Labridae	Stethojulis trilineata	native 	Three-lined rainbowfish 	Pilo 	subsistence fisheries 	subsistence fisheries 
+Clupeiformes	Engraulidae	Stolephorus baganensis	native 	Bagan anchovy 	 	subsistence fisheries 	minor commercial 
+Clupeiformes	Engraulidae	Stolephorus commersonnii	native 	Commerson's anchovy 	Ake lae 	commercial 	commercial 
+Clupeiformes	Engraulidae	Stolephorus dubiosus	native 	Thai anchovy 	 	subsistence fisheries 	subsistence fisheries 
+Clupeiformes	Engraulidae	Stolephorus indicus	native 	Indian anchovy 	Puri putih 	minor commercial 	minor commercial 
+Clupeiformes	Engraulidae	Stolephorus insularis	native 	Hardenberg's anchovy 	 	commercial 	commercial 
+Clupeiformes	Engraulidae	Stolephorus tri	native 	Spined anchovy 	Teri 	subsistence fisheries 	subsistence fisheries 
+Anguilliformes	Muraenidae	Strophidon sathete	native 	Slender giant moray 	 	minor commercial 	minor commercial 
+Perciformes	Lutjanidae	Symphorichthys spilurus	native 	Sailfin snapper 	Krapu layar 	minor commercial 	minor commercial 
+Perciformes	Lutjanidae	Symphorus nematophorus	native 	Chinamanfish 	Baga 	commercial 	commercial 
+Perciformes	Symphysanodontidae	Symphysanodon typus	native 	Insular shelf beauty 	 	minor commercial 	minor commercial 
+Aulopiformes	Synodontidae	Synodus hoshinonis	native 	Blackear lizardfish 	 	minor commercial 	minor commercial 
+Aulopiformes	Synodontidae	Synodus indicus	native 	Indian lizardfish 	Indian lizardfish 	commercial 	commercial 
+Aulopiformes	Synodontidae	Synodus jaculum	native 	Lighthouse lizardfish 	Tail-blotch lizardfish 	minor commercial 	minor commercial 
+Aulopiformes	Synodontidae	Synodus macrops	native 	Triplecross lizardfish 	Lagoon lizardfish 	minor commercial 	minor commercial 
+Aulopiformes	Synodontidae	Synodus sageneus	native 	Speartoothed grinner 	 	subsistence fisheries 	commercial 
+Aulopiformes	Synodontidae	Synodus variegatus	native 	Variegated lizardfish 	Totate 	minor commercial 	commercial 
+Myliobatiformes	Dasyatidae	Telatrygon zugei	native 	Pale-edged stingray 	Pari biasa 	minor commercial 	minor commercial 
+Perciformes	Trichiuridae	Tentoriceps cristatus	native 	Crested hairtail 	 	minor commercial 	minor commercial 
+Clupeiformes	Clupeidae	Tenualosa macrura	native 	Longtail shad 	Terubuk 	commercial 	commercial 
+Clupeiformes	Clupeidae	Tenualosa toli	native 	Toli shad 	Terubuk padi 	minor commercial 	highly commercial 
+Perciformes	Terapontidae	Terapon jarbua	native 	Jarbua terapon 	Babaguni 	minor commercial 	minor commercial 
+Perciformes	Terapontidae	Terapon puta	native 	Small-scaled terapon 	Kerong-kerong padi 	commercial 	minor commercial 
+Perciformes	Terapontidae	Terapon theraps	native 	Largescaled terapon 	Kerong-kerong 	minor commercial 	minor commercial 
+Perciformes	Istiophoridae	Tetrapturus angustirostris	native 	Shortbill spearfish 	 	minor commercial 	minor commercial 
+Clupeiformes	Engraulidae	Thryssa baelama	native 	Baelama anchovy 	Kendui 	minor commercial 	minor commercial 
+Clupeiformes	Engraulidae	Thryssa dussumieri	native 	Dussumier's thryssa 	Bilis 	commercial 	commercial 
+Clupeiformes	Engraulidae	Thryssa encrasicholoides	native 	False baelama anchovy 	 	minor commercial 	minor commercial 
+Clupeiformes	Engraulidae	Thryssa hamiltonii	native 	Hamilton's thryssa 	 	commercial 	commercial 
+Clupeiformes	Engraulidae	Thryssa kammalensis	native 	Kammal thryssa 	 	subsistence fisheries 	subsistence fisheries 
+Clupeiformes	Engraulidae	Thryssa mystax	native 	Moustached thryssa 	Sangko 	commercial 	commercial 
+Clupeiformes	Engraulidae	Thryssa setirostris	native 	Longjaw thryssa 	Bangkok 	minor commercial 	minor commercial 
+Perciformes	Scombridae	Thunnus alalunga	native 	Albacore 	 	highly commercial 	highly commercial 
+Perciformes	Scombridae	Thunnus albacares	native 	Yellowfin tuna 	Gelang kawung 	highly commercial 	highly commercial 
+Perciformes	Scombridae	Thunnus maccoyii	native 	Southern bluefin tuna 	 	commercial 	commercial 
+Perciformes	Scombridae	Thunnus obesus	native 	Bigeye tuna 	Balang kuni 	highly commercial 	highly commercial 
+Perciformes	Scombridae	Thunnus tonggol	native 	Longtail tuna 	Abu-abu 	highly commercial 	highly commercial 
+Perciformes	Gempylidae	Thyrsitoides marleyi	native 	Black snoek 	 	subsistence fisheries 	minor commercial 
+Cypriniformes	Cyprinidae	Tinca tinca	introduced 	Tench 	 	commercial 	commercial 
+Cypriniformes	Cyprinidae	Tor douronensis	native 	Semah mahseer 	Kancera 	minor commercial 	minor commercial 
+Perciformes	Toxotidae	Toxotes chatareus	native 	Spotted archerfish 	Sumpit 	minor commercial 	minor commercial 
+Perciformes	Toxotidae	Toxotes jaculatrix	native 	Banded archerfish 	Archerfish 	subsistence fisheries 	minor commercial 
+Aulopiformes	Synodontidae	Trachinocephalus myops	native 	Snakefish 	Aesi puti 	minor commercial 	minor commercial 
+Perciformes	Carangidae	Trachinotus baillonii	native 	Small spotted dart 	Spotted dart 	minor commercial 	minor commercial 
+Perciformes	Carangidae	Trachinotus blochii	native 	Snubnose pompano 	Lowang 	minor commercial 	minor commercial 
+Perciformes	Carangidae	Trachinotus mookalee	native 	Indian pompano 	 	subsistence fisheries 	minor commercial 
+Tetraodontiformes	Triacanthidae	Triacanthus biaculeatus	native 	Short-nosed tripodfish 	Songo langit 	minor commercial 	minor commercial 
+Carcharhiniformes	Carcharhinidae	Triaenodon obesus	native 	Whitetip reef shark 	Hiu bokem 	minor commercial 	minor commercial 
+Perciformes	Trichiuridae	Trichiurus lepturus	native 	Largehead hairtail 	Layur 	highly commercial 	highly commercial 
+Perciformes	Osphronemidae	Trichopodus pectoralis	introduced 	Snakeskin gourami 	Lampot 	commercial 	commercial 
+Perciformes	Osphronemidae	Trichopodus trichopterus	native 	Three spot gourami 	Sepat 	commercial 	minor commercial 
+Beloniformes	Belonidae	Tylosurus crocodilus	native 	Hound needlefish 	Kacangan 	commercial 	commercial 
+Perciformes	Carangidae	Ulua aurochs	native 	Silvermouth trevally 	 	minor commercial 	minor commercial 
+Perciformes	Carangidae	Ulua mentalis	native 	Longrakered trevally 	Terman 	minor commercial 	commercial 
+Perciformes	Mullidae	Upeneus japonicus	questionable 	Japanese goatfish 	 	minor commercial 	minor commercial 
+Perciformes	Mullidae	Upeneus moluccensis	native 	Goldband goatfish 	Ikan kunir 	minor commercial 	commercial 
+Perciformes	Mullidae	Upeneus sulphureus	native 	Sulphur goatfish 	Kunir 	minor commercial 	minor commercial 
+Perciformes	Mullidae	Upeneus tragula	native 	Freckled goatfish 	Biji nangka karang 	commercial 	commercial 
+Perciformes	Carangidae	Uraspis uraspis	native 	Whitemouth jack 	 	minor commercial 	minor commercial 
+Perciformes	Serranidae	Variola albimarginata	native 	White-edged lyretail 	Geurape cabeung 	subsistence fisheries 	subsistence fisheries 
+Perciformes	Serranidae	Variola louti	native 	Yellow-edged lyretail 	Geurape cabeung 	commercial 	commercial 
+Gadiformes	Macrouridae	Ventrifossa divergens	native 	Plainfin grenadier 	 	minor commercial 	minor commercial 
+Gadiformes	Macrouridae	Ventrifossa nigrodorsalis	native 	Spinaker grenadier 	 	minor commercial 	minor commercial 
+Siluriformes	Siluridae	Wallago attu	native 	Wallago 	Jambal 	commercial 	commercial 
+Siluriformes	Siluridae	Wallago leerii	native 	 	Tapah 	commercial 	commercial 
+Perciformes	Lethrinidae	Wattsia mossambica	native 	Mozambique large-eye bream 	 	minor commercial 	minor commercial 
+Perciformes	Xiphiidae	Xiphias gladius	native 	Swordfish 	Thoek kojek 	commercial 	commercial 
+Perciformes	Zanclidae	Zanclus cornutus	native 	Moorish idol 	Ikan hias 	subsistence fisheries 	subsistence fisheries 
+Pleuronectiformes	Soleidae	Zebrias quagga	native 	Fringefin zebra sole 	 	commercial 	commercial 
+Zeiformes	Zeidae	Zenopsis nebulosa	native 	Mirror dory 	 	minor commercial 	commercial 
